@@ -1,0 +1,3520 @@
+ICD9,HCC,HCC.PACE.ESRD,Description
+0031 ,2,2,Salmonella septicemia 
+00322,112,115,Salmonella pneumonia 
+00323,37,39,Salmonella arthritis 
+00324,37,39,Salmonella osteomyelitis
+0064 ,112,115,Amebic lung abscess 
+0074 ,5,6,Cryptosporidiosis 
+0202 ,2,2,Septicemic plague 
+0203 ,112,115,Primary pneumonic plague
+0204 ,112,115,Secondary pneumon plague
+0205 ,112,115,Pneumonic plague NOS 
+0212 ,112,115,Pulmonary tularemia 
+0221 ,112,115,Pulmonary anthrax 
+0223 ,2,2,Anthrax septicemia 
+0310 ,5,6,Pulmonary mycobacteria 
+0312 ,5,6,DMAC bacteremia 
+03283,31,33,Diphtheritic peritonitis
+0362 ,2,2,Meningococcemia 
+0363 ,,23,Meningococc adrenal synd
+03682,37,39,Meningococc arthropathy 
+0380 ,2,2,Streptococcal septicemia
+03810,2,2,Staphylcocc septicem NOS
+03811,2,2,Meth susc Staph aur sept
+03812,2,2,MRSA septicemia 
+03819,2,2,Staphylcocc septicem NEC
+0382 ,2,2,Pneumococcal septicemia 
+0383 ,2,2,Anaerobic septicemia 
+03840,2,2,Gram-neg septicemia NOS 
+03841,2,2,H. influenae septicemia 
+03842,2,2,E coli septicemia 
+03843,2,2,Pseudomonas septicemia 
+03844,2,2,Serratia septicemia 
+03849,2,2,Gram-neg septicemia NEC 
+0388 ,2,2,Septicemia NEC 
+0389 ,2,2,Septicemia NOS 
+0391 ,112,115,Pulmonary actinomycosis 
+0400 ,104,106,Gas gangrene 
+0402 ,32,,Whipple's disease 
+04082,2,2,Toxic shock syndrome 
+042 ,1,1,Human immuno virus dis 
+0460 ,,52,Kuru 
+04611,,52,Varnt Creutzfeldt-Jakob 
+04619,,52,Creutzfldt-Jakob NEC/NOS
+0462 ,,52,Subac scleros panenceph 
+0463 ,,52,Prog multifoc leukoencep
+04671,,52,Gerstmn-Straus-Schnk syn
+04672,,52,Fatal familial insomnia 
+04679,,52,Prion dis of CNS NEC/NOS
+0468 ,,52,Cns slow virus infec NEC
+0469 ,,52,Cns slow virus infec NOS
+0522 ,,72,Postvaricella myelitis 
+05310,,,H zoster nerv syst NOS 
+05311,,,Geniculate herpes zoster
+05312,,,Postherpes trigem neural
+05313,,,Postherpes polyneuropath
+05314,,72,Herpes zoster myelitis 
+05319,,,H zoster nerv syst NEC 
+0545 ,2,2,Herpetic septicemia 
+05474,,72,Herpes simplex myelitis 
+05671,37,39,Arthritis due to rubella
+07022,27,29,Hpt B chrn coma wo dlta 
+07023,27,29,Hpt B chrn coma w dlta 
+07032,27,29,Hpt B chrn wo cm wo dlta
+07033,27,29,Hpt B chrn wo cm w dlta 
+07044,27,29,Chrnc hpt C w hepat Coma
+07054,27,29,Chrnc hpt C wo hpat coma
+0723 ,32,,Mumps pancreatitis 
+0785 ,5,6,Cytomegaloviral disease 
+0786 ,132,141,Hem nephrosonephritis 
+07953,1,1,Hiv-2 infection oth dis 
+09487,95,99,Syph rupt cereb aneurysm
+09850,37,39,Gonococcal arthritis 
+09851,37,39,Gonococcal synovitis 
+09852,37,39,Gonococcal bursitis 
+09853,37,39,Gonococcal spondylitis 
+09859,37,39,Gc infect joint NEC 
+09886,31,33,Gonococcal peritonitis 
+0993 ,,40,Reiter's disease 
+1026 ,37,39,Yaws of bone & joint 
+1124 ,5,6,Candidiasis of lung 
+1125 ,5,6,Disseminated candidiasis
+11284,5,6,Candidal esophagitis 
+1140 ,112,115,Primary coccidioidomycos
+1144 ,112,115,Ch pl coccidioidomycosis
+1145 ,112,115,Pl cocidioidomycosis NOS
+11505,112,115,Histoplasm caps pneumon 
+11515,112,115,Histoplasm dub pneumonia
+11595,112,115,Histoplasmosis pneumonia
+1173 ,5,6,Aspergillosis 
+1175 ,5,6,Cryptococcosis 
+1177 ,5,6,Zygomycosis 
+118 ,,6,Opportunistic mycoses 
+1212 ,112,115,Paragonimiasis 
+1221 ,112,115,Echinococc granul lung 
+1300 ,5,6,Toxoplasm meningoenceph 
+1304 ,112,6,Toxoplasma pneumonitis 
+1308 ,5,6,Multisystem toxoplasmos 
+135 ,,112,Sarcoidosis 
+1361 ,38,40,Behcet's syndrome 
+1363 ,5,6,Pneumocystosis 
+1410 ,9,11,Mal neo tongue base 
+1411 ,9,11,Mal neo dorsal tongue 
+1412 ,9,11,Mal neo tip/lat tongue 
+1413 ,9,11,Mal neo ventral tongue 
+1414 ,9,11,Mal neo ant 2/3 tongue 
+1415 ,9,11,Mal neo tongue junction 
+1416 ,9,11,Mal neo lingual tonsil 
+1418 ,9,11,Malig neo tongue NEC 
+1419 ,9,11,Malig neo tongue NOS 
+1420 ,9,11,Malig neo parotid 
+1421 ,9,11,Malig neo submandibular 
+1422 ,9,11,Malig neo sublingual 
+1428 ,9,11,Mal neo maj salivary NEC
+1429 ,9,11,Mal neo salivary NOS 
+1430 ,9,11,Malig neo upper gum 
+1431 ,9,11,Malig neo lower gum 
+1438 ,9,11,Malig neo gum NEC 
+1439 ,9,11,Malig neo gum NOS 
+1440 ,9,11,Mal neo ant floor mouth 
+1441 ,9,11,Mal neo lat floor mouth 
+1448 ,9,11,Mal neo mouth floor NEC 
+1449 ,9,11,Mal neo mouth floor NOS 
+1450 ,9,11,Mal neo cheek mucosa 
+1451 ,9,11,Mal neo mouth vestibule 
+1452 ,9,11,Malig neo hard palate 
+1453 ,9,11,Malig neo soft palate 
+1454 ,9,11,Malignant neoplasm uvula
+1455 ,9,11,Malignant neo palate NOS
+1456 ,9,11,Malig neo retromolar 
+1458 ,9,11,Malig neoplasm mouth NEC
+1459 ,9,11,Malig neoplasm mouth NOS
+1460 ,9,11,Malignant neopl tonsil 
+1461 ,9,11,Mal neo tonsillar fossa 
+1462 ,9,11,Mal neo tonsil pillars 
+1463 ,9,11,Malign neopl vallecula 
+1464 ,9,11,Mal neo ant epiglottis 
+1465 ,9,11,Mal neo epiglottis junct
+1466 ,9,11,Mal neo lat oropharynx 
+1467 ,9,11,Mal neo post oropharynx 
+1468 ,9,11,Mal neo oropharynx NEC 
+1469 ,9,11,Malig neo oropharynx NOS
+1470 ,9,11,Mal neo super nasopharyn
+1471 ,9,11,Mal neo post nasopharynx
+1472 ,9,11,Mal neo lat nasopharynx 
+1473 ,9,11,Mal neo ant nasopharynx 
+1478 ,9,11,Mal neo nasopharynx NEC 
+1479 ,9,11,Mal neo nasopharynx NOS 
+1480 ,9,11,Mal neo postcricoid 
+1481 ,9,11,Mal neo pyriform sinus 
+1482 ,9,11,Mal neo aryepiglott fold
+1483 ,9,11,Mal neo post hypopharynx
+1488 ,9,11,Mal neo hypopharynx NEC 
+1489 ,9,11,Mal neo hypopharynx NOS 
+1490 ,9,11,Mal neo pharynx NOS 
+1491 ,9,11,Mal neo waldeyer's ring 
+1498 ,9,11,Mal neo oral/pharynx NEC
+1499 ,9,11,Mal neo orophryn ill-def
+1500 ,8,9,Mal neo cervical esophag
+1501 ,8,9,Mal neo thoracic esophag
+1502 ,8,9,Mal neo abdomin esophag 
+1503 ,8,9,Mal neo upper 3rd esoph 
+1504 ,8,9,Mal neo middle 3rd esoph
+1505 ,8,9,Mal neo lower 3rd esoph 
+1508 ,8,9,Mal neo esophagus NEC 
+1509 ,8,9,Mal neo esophagus NOS 
+1510 ,8,9,Mal neo stomach cardia 
+1511 ,8,9,Malignant neo pylorus 
+1512 ,8,9,Mal neo pyloric antrum 
+1513 ,8,9,Mal neo stomach fundus 
+1514 ,8,9,Mal neo stomach body 
+1515 ,8,9,Mal neo stom lesser curv
+1516 ,8,9,Mal neo stom great curv 
+1518 ,8,9,Malig neopl stomach NEC 
+1519 ,8,9,Malig neopl stomach NOS 
+1520 ,8,9,Malignant neopl duodenum
+1521 ,8,9,Malignant neopl jejunum 
+1522 ,8,9,Malignant neoplasm ileum
+1523 ,8,9,Mal neo meckel's divert 
+1528 ,8,9,Mal neo small bowel NEC 
+1529 ,8,9,Mal neo small bowel NOS 
+1530 ,10,11,Mal neo hepatic flexure 
+1531 ,10,11,Mal neo transverse colon
+1532 ,10,11,Mal neo descend colon 
+1533 ,10,11,Mal neo sigmoid colon 
+1534 ,10,11,Malignant neoplasm cecum
+1535 ,10,11,Malignant neo appendix 
+1536 ,10,11,Malig neo ascend colon 
+1537 ,10,11,Mal neo splenic flexure 
+1538 ,10,11,Malignant neo colon NEC 
+1539 ,10,11,Malignant neo colon NOS 
+1540 ,10,11,Mal neo rectosigmoid jct
+1541 ,10,11,Malignant neopl rectum 
+1542 ,10,11,Malig neopl anal canal 
+1543 ,10,11,Malignant neo anus NOS 
+1548 ,10,11,Mal neo rectum/anus NEC 
+1550 ,8,9,"Mal neo liver, primary "
+1551 ,8,9,Mal neo intrahepat ducts
+1552 ,8,9,Malignant neo liver NOS 
+1560 ,8,9,Malig neo gallbladder 
+1561 ,8,9,Mal neo extrahepat ducts
+1562 ,8,9,Mal neo ampulla of vater
+1568 ,8,9,Malig neo biliary NEC 
+1569 ,8,9,Malig neo biliary NOS 
+1570 ,8,9,Mal neo pancreas head 
+1571 ,8,9,Mal neo pancreas body 
+1572 ,8,9,Mal neo pancreas tail 
+1573 ,8,9,Mal neo pancreatic duct 
+1574 ,8,9,Mal neo islet langerhans
+1578 ,8,9,Malig neo pancreas NEC 
+1579 ,8,9,Malig neo pancreas NOS 
+1580 ,8,9,Mal neo retroperitoneum 
+1588 ,8,9,Mal neo peritoneum NEC 
+1589 ,8,9,Mal neo peritoneum NOS 
+1590 ,10,11,Malig neo intestine NOS 
+1591 ,10,11,Malignant neo spleen NEC
+1598 ,10,11,Mal neo gi/intra-abd NEC
+1599 ,10,11,Mal neo GI tract ill-def
+1600 ,9,11,Mal neo nasal cavities 
+1601 ,9,11,Malig neo middle ear 
+1602 ,9,11,Mal neo maxillary sinus 
+1603 ,9,11,Mal neo ethmoidal sinus 
+1604 ,9,11,Malig neo frontal sinus 
+1605 ,9,11,Mal neo sphenoid sinus 
+1608 ,9,11,Mal neo access sinus NEC
+1609 ,9,11,Mal neo access sinus NOS
+1610 ,9,11,Malignant neo glottis 
+1611 ,9,11,Malig neo supraglottis 
+1612 ,9,11,Malig neo subglottis 
+1613 ,9,11,Mal neo cartilage larynx
+1618 ,9,11,Malignant neo larynx NEC
+1619 ,9,11,Malignant neo larynx NOS
+1620 ,8,9,Malignant neo trachea 
+1622 ,8,9,Malig neo main bronchus 
+1623 ,8,9,Mal neo upper lobe lung 
+1624 ,8,9,Mal neo middle lobe lung
+1625 ,8,9,Mal neo lower lobe lung 
+1628 ,8,9,Mal neo bronch/lung NEC 
+1629 ,8,9,Mal neo bronch/lung NOS 
+1630 ,8,9,Mal neo parietal pleura 
+1631 ,8,9,Mal neo visceral pleura 
+1638 ,8,9,Malig neopl pleura NEC 
+1639 ,8,9,Malig neopl pleura NOS 
+1640 ,9,11,Malignant neopl thymus 
+1641 ,9,11,Malignant neopl heart 
+1642 ,9,11,Mal neo ant mediastinum 
+1643 ,9,11,Mal neo post mediastinum
+1648 ,9,11,Mal neo mediastinum NEC 
+1649 ,9,11,Mal neo mediastinum NOS 
+1650 ,9,11,Mal neo upper resp NOS 
+1658 ,9,11,Mal neo thorax/resp NEC 
+1659 ,9,11,Mal neo resp system NOS 
+1700 ,9,10,Mal neo skull/face bone 
+1701 ,9,10,Malignant neo mandible 
+1702 ,9,10,Malig neo vertebrae 
+1703 ,9,10,Mal neo ribs/stern/clav 
+1704 ,9,10,Mal neo long bones arm 
+1705 ,9,10,Mal neo bones wrist/hand
+1706 ,9,10,Mal neo pelvic girdle 
+1707 ,9,10,Mal neo long bones leg 
+1708 ,9,10,Mal neo bones ankle/foot
+1709 ,9,10,Malig neopl bone NOS 
+1710 ,9,10,Mal neo soft tissue head
+1712 ,9,10,Mal neo soft tissue arm 
+1713 ,9,10,Mal neo soft tissue leg 
+1714 ,9,10,Mal neo soft tis thorax 
+1715 ,9,10,Mal neo soft tis abdomen
+1716 ,9,10,Mal neo soft tis pelvis 
+1717 ,9,10,Mal neopl trunk NOS 
+1718 ,9,10,Mal neo soft tissue NEC 
+1719 ,9,10,Mal neo soft tissue NOS 
+1720 ,10,12,Malig melanoma lip 
+1721 ,10,12,Malig melanoma eyelid 
+1722 ,10,12,Malig melanoma ear 
+1723 ,10,12,Mal melanom face NEC/NOS
+1724 ,10,12,Mal melanoma scalp/neck 
+1725 ,10,12,Malig melanoma trunk 
+1726 ,10,12,Malig melanoma arm 
+1727 ,10,12,Malig melanoma leg 
+1728 ,10,12,Malig melanoma skin NEC 
+1729 ,10,12,Malig melanoma skin NOS 
+1740 ,10,12,Malig neo nipple 
+1741 ,10,12,Mal neo breast-central 
+1742 ,10,12,Mal neo breast up-inner 
+1743 ,10,12,Mal neo breast low-inner
+1744 ,10,12,Mal neo breast up-outer 
+1745 ,10,12,Mal neo breast low-outer
+1746 ,10,12,Mal neo breast-axillary 
+1748 ,10,12,Malign neopl breast NEC 
+1749 ,10,12,Malign neopl breast NOS 
+1750 ,10,12,Mal neo male nipple 
+1759 ,10,12,Mal neo male breast NEC 
+1760 ,9,10,Skin - kaposi's sarcoma 
+1761 ,9,10,Sft tisue - kpsi's srcma
+1762 ,9,10,Palate - kpsi's sarcoma 
+1763 ,9,10,GI sites - kpsi's srcoma
+1764 ,9,10,Lung - kaposi's sarcoma 
+1765 ,9,10,Lym nds - kpsi's sarcoma
+1768 ,9,10,Spf sts - kpsi's sarcoma
+1769 ,9,10,Kaposi's sarcoma NOS 
+179 ,10,12,Malig neopl uterus NOS 
+1800 ,10,11,Malig neo endocervix 
+1801 ,10,11,Malig neo exocervix 
+1808 ,10,11,Malig neo cervix NEC 
+1809 ,10,11,Mal neo cervix uteri NOS
+181 ,9,10,Malignant neopl placenta
+1820 ,10,12,Malig neo corpus uteri 
+1821 ,10,12,Mal neo uterine isthmus 
+1828 ,10,12,Mal neo body uterus NEC 
+1830 ,9,10,Malign neopl ovary 
+1832 ,9,10,Mal neo fallopian tube 
+1833 ,9,10,Mal neo broad ligament 
+1834 ,9,10,Malig neo parametrium 
+1835 ,9,10,Mal neo round ligament 
+1838 ,9,10,Mal neo adnexa NEC 
+1839 ,9,10,Mal neo adnexa NOS 
+1840 ,10,11,Malign neopl vagina 
+1841 ,10,11,Mal neo labia majora 
+1842 ,10,11,Mal neo labia minora 
+1843 ,10,11,Malign neopl clitoris 
+1844 ,10,11,Malign neopl vulva NOS 
+1848 ,10,11,Mal neo female genit NEC
+1849 ,10,11,Mal neo female genit NOS
+185 ,10,12,Malign neopl prostate 
+1860 ,10,12,Mal neo undescend testis
+1869 ,10,12,Malig neo testis NEC 
+1871 ,10,12,Malign neopl prepuce 
+1872 ,10,12,Malig neo glans penis 
+1873 ,10,12,Malig neo penis body 
+1874 ,10,12,Malig neo penis NOS 
+1875 ,10,12,Malig neo epididymis 
+1876 ,10,12,Mal neo spermatic cord 
+1877 ,10,12,Malign neopl scrotum 
+1878 ,10,12,Mal neo male genital NEC
+1879 ,10,12,Mal neo male genital NOS
+1880 ,10,11,Mal neo bladder-trigone 
+1881 ,10,11,Mal neo bladder-dome 
+1882 ,10,11,Mal neo bladder-lateral 
+1883 ,10,11,Mal neo bladder-anterior
+1884 ,10,11,Mal neo bladder-post 
+1885 ,10,11,Mal neo bladder neck 
+1886 ,10,11,Mal neo ureteric orifice
+1887 ,10,11,Malig neo urachus 
+1888 ,10,11,Malig neo bladder NEC 
+1889 ,10,11,Malig neo bladder NOS 
+1890 ,10,11,Malig neopl kidney 
+1891 ,10,11,Malig neo renal pelvis 
+1892 ,10,11,Malign neopl ureter 
+1893 ,10,11,Malign neopl urethra 
+1894 ,10,11,Mal neo paraurethral 
+1898 ,10,11,Mal neo urinary NEC 
+1899 ,10,11,Mal neo urinary NOS 
+1900 ,10,12,Malign neopl eyeball 
+1901 ,10,12,Malign neopl orbit 
+1902 ,10,12,Mal neo lacrimal gland 
+1903 ,10,12,Mal neo conjunctiva 
+1904 ,10,12,Malign neopl cornea 
+1905 ,10,12,Malign neopl retina 
+1906 ,10,12,Malign neopl choroid 
+1907 ,10,12,Mal neo lacrimal duct 
+1908 ,10,12,Malign neopl eye NEC 
+1909 ,10,12,Malign neopl eye NOS 
+1910 ,9,10,Malign neopl cerebrum 
+1911 ,9,10,Malig neo frontal lobe 
+1912 ,9,10,Mal neo temporal lobe 
+1913 ,9,10,Mal neo parietal lobe 
+1914 ,9,10,Mal neo occipital lobe 
+1915 ,9,10,Mal neo cereb ventricle 
+1916 ,9,10,Mal neo cerebellum NOS 
+1917 ,9,10,Mal neo brain stem 
+1918 ,9,10,Malig neo brain NEC 
+1919 ,9,10,Malig neo brain NOS 
+1920 ,9,10,Mal neo cranial nerves 
+1921 ,9,10,Mal neo cerebral mening 
+1922 ,9,10,Mal neo spinal cord 
+1923 ,9,10,Mal neo spinal meninges 
+1928 ,9,10,Mal neo nervous syst NEC
+1929 ,9,10,Mal neo nervous syst NOS
+193 ,10,12,Malign neopl thyroid 
+1940 ,9,10,Malign neopl adrenal 
+1941 ,10,12,Malig neo parathyroid 
+1943 ,9,10,Malig neo pituitary 
+1944 ,9,10,Malign neo pineal gland 
+1945 ,10,12,Mal neo carotid body 
+1946 ,10,12,Mal neo paraganglia NEC 
+1948 ,10,12,Mal neo endocrine NEC 
+1949 ,10,12,Mal neo endocrine NOS 
+1950 ,10,12,Mal neo head/face/neck 
+1951 ,10,12,Malign neopl thorax 
+1952 ,10,12,Malig neo abdomen 
+1953 ,10,12,Malign neopl pelvis 
+1954 ,10,12,Malign neopl arm 
+1955 ,10,12,Malign neopl leg 
+1958 ,10,12,Malig neo site NEC 
+1960 ,7,8,Mal neo lymph-head/neck 
+1961 ,7,8,Mal neo lymph-intrathor 
+1962 ,7,8,Mal neo lymph intra-abd 
+1963 ,7,10,Mal neo lymph-axilla/arm
+1965 ,7,8,Mal neo lymph-inguin/leg
+1966 ,7,8,Mal neo lymph-intrapelv 
+1968 ,7,8,Mal neo lymph node-mult 
+1969 ,7,10,Mal neo lymph node NOS 
+1970 ,7,8,Secondary malig neo lung
+1971 ,7,8,Sec mal neo mediastinum 
+1972 ,7,8,Second malig neo pleura 
+1973 ,7,8,Sec malig neo resp NEC 
+1974 ,7,8,Sec malig neo sm bowel 
+1975 ,7,8,Sec malig neo lg bowel 
+1976 ,7,8,Sec mal neo peritoneum 
+1977 ,7,8,Second malig neo liver 
+1978 ,7,8,Sec mal neo GI NEC 
+1980 ,7,8,Second malig neo kidney 
+1981 ,7,8,Sec malig neo urin NEC 
+1982 ,7,10,Secondary malig neo skin
+1983 ,7,8,Sec mal neo brain/spine 
+1984 ,7,8,Sec malig neo nerve NEC 
+1985 ,7,8,Secondary malig neo bone
+1986 ,7,8,Second malig neo ovary 
+1987 ,7,8,Second malig neo adrenal
+19881,7,10,Second malig neo breast 
+19882,7,10,Second malig neo genital
+19889,7,8,Secondary malig neo NEC 
+1990 ,7,8,Malig neo disseminated 
+1991 ,10,12,Malignant neoplasm NOS 
+1992 ,10,12,Malig neopl-transp organ
+20000,9,10,Retclsrc unsp xtrndl org
+20001,9,10,Reticulosarcoma head 
+20002,9,10,Reticulosarcoma thorax 
+20003,9,10,Reticulosarcoma abdom 
+20004,9,10,Reticulosarcoma axilla 
+20005,9,10,Reticulosarcoma inguin 
+20006,9,10,Reticulosarcoma pelvic 
+20007,9,10,Reticulosarcoma spleen 
+20008,9,10,Reticulosarcoma mult 
+20010,9,10,Lymphsrc unsp xtrndl org
+20011,9,10,Lymphosarcoma head 
+20012,9,10,Lymphosarcoma thorax 
+20013,9,10,Lymphosarcoma abdom 
+20014,9,10,Lymphosarcoma axilla 
+20015,9,10,Lymphosarcoma inguin 
+20016,9,10,Lymphosarcoma pelvic 
+20017,9,10,Lymphosarcoma spleen 
+20018,9,10,Lymphosarcoma mult 
+20020,9,10,Brkt tmr unsp xtrndl org
+20021,9,10,Burkitt's tumor head 
+20022,9,10,Burkitt's tumor thorax 
+20023,9,10,Burkitt's tumor abdom 
+20024,9,10,Burkitt's tumor axilla 
+20025,9,10,Burkitt's tumor inguin 
+20026,9,10,Burkitt's tumor pelvic 
+20027,9,10,Burkitt's tumor spleen 
+20028,9,10,Burkitt's tumor mult 
+20030,9,10,Margnl zone lym xtrndl 
+20031,9,10,Margin zone lym head 
+20032,9,10,Margin zone lym thorax 
+20033,9,10,Margin zone lym abdom 
+20034,9,10,Margin zone lym axilla 
+20035,9,10,Margin zone lym inguin 
+20036,9,10,Margin zone lym pelvic 
+20037,9,10,Margin zone lymph spleen
+20038,9,10,Margin zone lymph multip
+20040,9,10,Mantle cell lym xtrrndl 
+20041,9,10,Mantle cell lymph head 
+20042,9,10,Mantle cell lymph thorax
+20043,9,10,Mantle cell lymph abdom 
+20044,9,10,Mantle cell lymph axilla
+20045,9,10,Mantle cell lymph inguin
+20046,9,10,Mantle cell lymph pelvic
+20047,9,10,Mantle cell lymph spleen
+20048,9,10,Mantle cell lymph multip
+20050,9,10,Primary CNS lymph xtrndl
+20051,9,10,Primary CNS lymph head 
+20052,9,10,Primary CNS lymph thorax
+20053,9,10,Primary CNS lymph abdom 
+20054,9,10,Primary CNS lymph axilla
+20055,9,10,Primary CNS lym inguin 
+20056,9,10,Primary CNS lymph pelvic
+20057,9,10,Primary CNS lymph spleen
+20058,9,10,Primary CNS lymph multip
+20060,9,10,Anaplastic lymph xtrndl 
+20061,9,10,Anaplastic lymph head 
+20062,9,10,Anaplastic lymph thorax 
+20063,9,10,Anaplastic lymph abdom 
+20064,9,10,Anaplastic lymph axilla 
+20065,9,10,Anaplastic lymph inguin 
+20066,9,10,Anaplastic lymph pelvic 
+20067,9,10,Anaplastic lymph spleen 
+20068,9,10,Anaplastic lymph multip 
+20070,9,10,Large cell lymph xtrndl 
+20071,9,10,Large cell lymphoma head
+20072,9,10,Large cell lymph thorax 
+20073,9,10,Large cell lymph abdom 
+20074,9,10,Large cell lymph axilla 
+20075,9,10,Large cell lymph inguin 
+20076,9,10,Large cell lymph pelvic 
+20077,9,10,Large cell lymph spleen 
+20078,9,10,Large cell lymph multip 
+20080,9,10,Oth varn unsp xtrndl org
+20081,9,10,Mixed lymphosarc head 
+20082,9,10,Mixed lymphosarc thorax 
+20083,9,10,Mixed lymphosarc abdom 
+20084,9,10,Mixed lymphosarc axilla 
+20085,9,10,Mixed lymphosarc inguin 
+20086,9,10,Mixed lymphosarc pelvic 
+20087,9,10,Mixed lymphosarc spleen 
+20088,9,10,Mixed lymphosarc mult 
+20100,9,10,Hdgk prg unsp xtrndl org
+20101,9,10,Hodgkins paragran head 
+20102,9,10,Hodgkins paragran thorax
+20103,9,10,Hodgkins paragran abdom 
+20104,9,10,Hodgkins paragran axilla
+20105,9,10,Hodgkins paragran inguin
+20106,9,10,Hodgkins paragran pelvic
+20107,9,10,Hodgkins paragran spleen
+20108,9,10,Hodgkins paragran mult 
+20110,9,10,Hdgk grn unsp xtrndl org
+20111,9,10,Hodgkins granulom head 
+20112,9,10,Hodgkins granulom thorax
+20113,9,10,Hodgkins granulom abdom 
+20114,9,10,Hodgkins granulom axilla
+20115,9,10,Hodgkins granulom inguin
+20116,9,10,Hodgkins granulom pelvic
+20117,9,10,Hodgkins granulom spleen
+20118,9,10,Hodgkins granulom mult 
+20120,9,10,Hdgk src unsp xtrndl org
+20121,9,10,Hodgkins sarcoma head 
+20122,9,10,Hodgkins sarcoma thorax 
+20123,9,10,Hodgkins sarcoma abdom 
+20124,9,10,Hodgkins sarcoma axilla 
+20125,9,10,Hodgkins sarcoma inguin 
+20126,9,10,Hodgkins sarcoma pelvic 
+20127,9,10,Hodgkins sarcoma spleen 
+20128,9,10,Hodgkins sarcoma mult 
+20140,9,10,Lym-hst unsp xtrndl orgn
+20141,9,10,Hodg lymph-histio head 
+20142,9,10,Hodg lymph-histio thorax
+20143,9,10,Hodg lymph-histio abdom 
+20144,9,10,Hodg lymph-histio axilla
+20145,9,10,Hodg lymph-histio inguin
+20146,9,10,Hodg lymph-histio pelvic
+20147,9,10,Hodg lymph-histio spleen
+20148,9,10,Hodg lymph-histio mult 
+20150,9,10,Ndr sclr unsp xtrndl org
+20151,9,10,Hodg nodul sclero head 
+20152,9,10,Hodg nodul sclero thorax
+20153,9,10,Hodg nodul sclero abdom 
+20154,9,10,Hodg nodul sclero axilla
+20155,9,10,Hodg nodul sclero inguin
+20156,9,10,Hodg nodul sclero pelvic
+20157,9,10,Hodg nodul sclero spleen
+20158,9,10,Hodg nodul sclero mult 
+20160,9,10,Mxd celr unsp xtrndl org
+20161,9,10,Hodgkins mix cell head 
+20162,9,10,Hodgkins mix cell thorax
+20163,9,10,Hodgkins mix cell abdom 
+20164,9,10,Hodgkins mix cell axilla
+20165,9,10,Hodgkins mix cell inguin
+20166,9,10,Hodgkins mix cell pelvic
+20167,9,10,Hodgkins mix cell spleen
+20168,9,10,Hodgkins mix cell mult 
+20170,9,10,Lym dplt unsp xtrndl org
+20171,9,10,Hodg lymph deplet head 
+20172,9,10,Hodg lymph deplet thorax
+20173,9,10,Hodg lymph deplet abdom 
+20174,9,10,Hodg lymph deplet axilla
+20175,9,10,Hodg lymph deplet inguin
+20176,9,10,Hodg lymph deplet pelvic
+20177,9,10,Hodg lymph deplet spleen
+20178,9,10,Hodg lymph deplet mult 
+20190,9,10,Hdgk dis unsp xtrndl org
+20191,9,10,Hodgkins dis NOS head 
+20192,9,10,Hodgkins dis NOS thorax 
+20193,9,10,Hodgkins dis NOS abdom 
+20194,9,10,Hodgkins dis NOS axilla 
+20195,9,10,Hodgkins dis NOS inguin 
+20196,9,10,Hodgkins dis NOS pelvic 
+20197,9,10,Hodgkins dis NOS spleen 
+20198,9,10,Hodgkins dis NOS mult 
+20200,9,10,Ndlr lym unsp xtrndl org
+20201,9,10,Nodular lymphoma head 
+20202,9,10,Nodular lymphoma thorax 
+20203,9,10,Nodular lymphoma abdom 
+20204,9,10,Nodular lymphoma axilla 
+20205,9,10,Nodular lymphoma inguin 
+20206,9,10,Nodular lymphoma pelvic 
+20207,9,10,Nodular lymphoma spleen 
+20208,9,10,Nodular lymphoma mult 
+20210,9,10,Mycs fng unsp xtrndl org
+20211,9,10,Mycosis fungoides head 
+20212,9,10,Mycosis fungoides thorax
+20213,9,10,Mycosis fungoides abdom 
+20214,9,10,Mycosis fungoides axilla
+20215,9,10,Mycosis fungoides inguin
+20216,9,10,Mycosis fungoides pelvic
+20217,9,10,Mycosis fungoides spleen
+20218,9,10,Mycosis fungoides mult 
+20220,9,10,Szry dis unsp xtrndl org
+20221,9,10,Sezary's disease head 
+20222,9,10,Sezary's disease thorax 
+20223,9,10,Sezary's disease abdom 
+20224,9,10,Sezary's disease axilla 
+20225,9,10,Sezary's disease inguin 
+20226,9,10,Sezary's disease pelvic 
+20227,9,10,Sezary's disease spleen 
+20228,9,10,Sezary's disease mult 
+20230,9,10,Mlg hist unsp xtrndl org
+20231,9,10,Mal histiocytosis head 
+20232,9,10,Mal histiocytosis thorax
+20233,9,10,Mal histiocytosis abdom 
+20234,9,10,Mal histiocytosis axilla
+20235,9,10,Mal histiocytosis inguin
+20236,9,10,Mal histiocytosis pelvic
+20237,9,10,Mal histiocytosis spleen
+20238,9,10,Mal histiocytosis mult 
+20240,9,10,Lk rtctl unsp xtrndl org
+20241,9,10,Hairy-cell leukem head 
+20242,9,10,Hairy-cell leukem thorax
+20243,9,10,Hairy-cell leukem abdom 
+20244,9,10,Hairy-cell leukem axilla
+20245,9,10,Hairy-cell leukem inguin
+20246,9,10,Hairy-cell leukem pelvic
+20247,9,10,Hairy-cell leukem spleen
+20248,9,10,Hairy-cell leukem mult 
+20250,9,10,Ltr-siwe unsp xtrndl org
+20251,9,10,Letterer-siwe dis head 
+20252,9,10,Letterer-siwe dis thorax
+20253,9,10,Letterer-siwe dis abdom 
+20254,9,10,Letterer-siwe dis axilla
+20255,9,10,Letterer-siwe dis inguin
+20256,9,10,Letterer-siwe dis pelvic
+20257,9,10,Letterer-siwe dis spleen
+20258,9,10,Letterer-siwe dis mult 
+20260,9,10,Mlg mast unsp xtrndl org
+20261,9,10,Mal mastocytosis head 
+20262,9,10,Mal mastocytosis thorax 
+20263,9,10,Mal mastocytosis abdom 
+20264,9,10,Mal mastocytosis axilla 
+20265,9,10,Mal mastocytosis inguin 
+20266,9,10,Mal mastocytosis pelvic 
+20267,9,10,Mal mastocytosis spleen 
+20268,9,10,Mal mastocytosis mult 
+20270,9,10,Periph T cell lym xtrndl
+20271,9,10,Periph T cell lymph head
+20272,9,10,Periph T cell lym thorax
+20273,9,10,Periph T cell lym abdom 
+20274,9,10,Periph T cell lym axilla
+20275,9,10,Periph T cell lym inguin
+20276,9,10,Periph T cell lym pelvic
+20277,9,10,Periph T cell lym spleen
+20278,9,10,Periph T cell lym multip
+20280,9,10,Oth lymp unsp xtrndl org
+20281,9,10,Lymphomas NEC head 
+20282,9,10,Lymphomas NEC thorax 
+20283,9,10,Lymphomas NEC abdom 
+20284,9,10,Lymphomas NEC axilla 
+20285,9,10,Lymphomas NEC inguin 
+20286,9,10,Lymphomas NEC pelvic 
+20287,9,10,Lymphomas NEC spleen 
+20288,9,10,Lymphomas NEC mult 
+20290,9,10,Unsp lym unsp xtrndl org
+20291,9,10,Lymphoid mal NEC head 
+20292,9,10,Lymphoid mal NEC thorax 
+20293,9,10,Lymphoid mal NEC abdom 
+20294,9,10,Lymphoid mal NEC axilla 
+20295,9,10,Lymphoid mal NEC inguin 
+20296,9,10,Lymphoid mal NEC pelvic 
+20297,9,10,Lymphoid mal NEC spleen 
+20298,9,10,Lymphoid mal NEC mult 
+20300,9,9,Mult mye w/o achv rmson 
+20301,9,9,Mult myelm w remission 
+20302,9,9,Mult myeloma in relapse 
+20310,9,9,Pls cl leu w/o achv rmsn
+20311,9,9,Plsm cell leuk w rmson 
+20312,9,9,Plsm cel leuk in relapse
+20380,9,9,Oth imno npl wo ach rmsn
+20381,9,9,Oth imnprfl npl w rmsn 
+20382,9,9,Oth imnprlf neo-relapse 
+20400,7,8,Ac lym leuk wo achv rmsn
+20401,7,8,Act lym leuk w rmsion 
+20402,7,8,Act lymp leuk in relapse
+20410,9,10,Ch lym leuk wo achv rmsn
+20411,9,10,Chr lym leuk w rmsion 
+20412,9,10,Chr lymp leuk in relapse
+20420,9,10,Sbac lym leu wo ach rmsn
+20421,9,10,Sbac lym leuk w rmsion 
+20422,9,10,Sbac lym leuk in relapse
+20480,9,10,Oth lym leu wo achv rmsn
+20481,9,10,Oth lym leuk w rmsion 
+20482,9,10,Oth lym leuk in relapse 
+20490,9,10,Uns lym leu wo ach rmsn 
+20491,9,10,Uns lym leuk w rmsion 
+20492,9,10,Lymp leuk NOS relapse 
+20500,7,8,Ac myl leuk wo achv rmsn
+20501,7,8,Act myl leuk w rmsion 
+20502,7,8,Act myel leuk in relapse
+20510,8,9,Ch myl leuk wo achv rmsn
+20511,8,9,Chr myl leuk w rmsion 
+20512,8,9,Chr myel leuk in relapse
+20520,8,9,Sbac myl leu wo ach rmsn
+20521,8,9,Sbac myl leuk w rmsion 
+20522,8,9,Sbac myl leuk in relapse
+20530,8,9,Myl sarcoma wo achv rmsn
+20531,8,9,Myl srcoma w rmsion 
+20532,8,9,Myel sarcoma in relapse 
+20580,8,9,Oth my leuk wo achv rmsn
+20581,8,9,Oth myl leuk w rmsion 
+20582,8,9,Oth myel leuk in relapse
+20590,8,9,Uns my leu wo ach rmsn 
+20591,8,9,Uns myl leuk w rmsion 
+20592,8,9,Myel leuk NOS in relapse
+20600,7,8,Ac mono leu wo achv rmsn
+20601,7,8,Act mono leuk w rmsion 
+20602,7,8,Act mono leuk in relapse
+20610,8,9,Ch mono leu wo achv rmsn
+20611,8,9,Chr mono leuk w rmsion 
+20612,8,9,Chr mono leuk in relapse
+20620,8,9,Sbac mno leu wo ach rmsn
+20621,8,9,Sbac mono leuk w rmsion 
+20622,8,9,Sbac mono leu in relapse
+20680,8,9,Ot mono leu wo achv rmsn
+20681,8,9,Oth mono leuk w rmsion 
+20682,8,9,Oth mono leuk in relapse
+20690,8,9,Uns mno leu wo ach rmsn 
+20691,8,9,Uns mono leuk w rmsion 
+20692,8,9,Mono leuk NOS relapse 
+20700,7,8,Ac erth/erlk wo ach rmsn
+20701,7,8,Act erth/erylk w rmson 
+20702,7,8,Ac erth/erylk in relapse
+20710,8,9,Chr erythrm w/o ach rmsn
+20711,8,9,Chr erythrm w remision 
+20712,8,9,Chr erythrmia in relapse
+20720,8,9,Mgkrcyt leuk wo ach rmsn
+20721,8,9,Mgkrycyt leuk w rmsion 
+20722,8,9,Mgkrycyt leuk in relapse
+20780,8,9,Oth leuk w/o achv rmsn 
+20781,8,9,Oth spf leuk w remsion 
+20782,8,9,Oth spf leuk in relapse 
+20800,7,8,Ac leu un cl wo ach rmsn
+20801,7,8,Act leuk uns cl w rmson 
+20802,7,8,Ac leuk uns cl relapse 
+20810,9,10,Ch leu un cl wo ach rmsn
+20811,9,10,Chr leuk uns cl w rmson 
+20812,9,10,Ch leu uns cl in relapse
+20820,9,10,Sbc leu un cl wo ah rmsn
+20821,9,10,Sbac leuk uns cl w rmson
+20822,9,10,Sbac leu uns cl-relapse 
+20880,9,10,Ot leu un cl wo ach rmsn
+20881,9,10,Oth leuk uns cl w rmson 
+20882,9,10,Oth leuk uns cl-relapse 
+20890,9,10,Leuk NOS w/o achv rmsn 
+20891,9,10,Leukemia NOS w remission
+20892,9,10,Leukemia NOS in relapse 
+20900,10,12,Mal crcnoid sm intst NOS
+20901,10,12,Malig carcinoid duodenum
+20902,10,12,Malig carcinoid jejunum 
+20903,10,12,Malig carcinoid ileum 
+20910,10,12,Mal crcnoid lg intst NOS
+20911,10,12,Malig carcinoid appendix
+20912,10,12,Malig carcinoid cecum 
+20913,10,12,Mal crcnoid ascend colon
+20914,10,12,Mal crcnoid transv colon
+20915,10,12,Mal carcinoid desc colon
+20916,10,12,Mal carcinoid sig colon 
+20917,10,12,Malig carcinoid rectum 
+20920,10,12,Mal crcnd prim site unkn
+20921,10,12,Mal carcinoid bronc/lung
+20922,10,12,Malig carcinoid thymus 
+20923,10,12,Malig carcinoid stomach 
+20924,10,12,Malig carcinoid kidney 
+20925,10,12,Mal carcnoid foregut NOS
+20926,10,12,Mal carcinoid midgut NOS
+20927,10,12,Mal carcnoid hindgut NOS
+20929,10,12,Malig carcinoid oth site
+20930,10,12,Malig neuroendo ca NOS 
+20931,10,12,Merkel cell ca-face 
+20932,10,12,Merkel cell ca-sclp/neck
+20933,10,12,Merkel cell ca-up limb 
+20934,10,12,Merkel cell ca-low limb 
+20935,10,12,Merkel cell ca-trunk 
+20936,10,12,Merkel cell ca-oth sites
+20970,7,8,Sec neuroendo tumor NOS 
+20971,7,8,Sec neuroend tu dist lym
+20972,7,8,Sec neuroend tumor-liver
+20973,7,8,Sec neuroendo tumor-bone
+20974,7,8,Sec neuroendo tu-periton
+20975,7,8,Secondary Merkel cell ca
+20979,7,8,Sec neuroend tu oth site
+2250 ,10,12,Benign neoplasm brain 
+2251 ,10,12,Benign neo cranial nerve
+2252 ,10,12,Ben neo cerebr meninges 
+2253 ,10,12,Benign neo spinal cord 
+2254 ,10,12,Ben neo spinal meninges 
+2258 ,10,12,Benign neo nerv sys NEC 
+2259 ,10,12,Benign neo nerv sys NOS 
+2273 ,10,12,Benign neo pituitary 
+2274 ,10,12,Ben neopl pineal gland 
+22802,10,12,Hemangioma intracranial 
+2370 ,10,12,Unc behav neo pituitary 
+2371 ,10,12,Unc behav neo pineal 
+2373 ,10,12,Unc behav neo paragang 
+2375 ,10,12,Unc beh neo brain/spinal
+2376 ,10,12,Unc behav neo meninges 
+23770,10,12,Neurofibromatosis NOS 
+23771,10,12,Neurofibromatosis type I
+23772,10,12,Neurofibromatosis typ II
+23773,10,12,Schwannomatosis 
+23779,10,12,Neurofibromatosis NEC 
+2379 ,10,12,Unc beh neo nerv sys NEC
+2384 ,,48,Polycythemia vera 
+2386 ,,,Plasmacytoma NOS 
+23871,,48,Essntial thrombocythemia
+23872,44,46,Low grde myelody syn les
+23873,44,46,Hi grde myelodys syn les
+23874,44,46,Myelodyspls syn w 5q del
+23875,44,46,Myelodysplastic synd NOS
+23876,,46,Myelofi w myelo metaplas
+23877,,48,Post tp lymphprolif dis 
+23879,,48,Lymph/hematpoitc tis NEC
+2396 ,10,12,Brain neoplasm NOS 
+2400 ,,,Simple goiter 
+2409 ,,,Goiter NOS 
+2410 ,,,Nontox uninodular goiter
+2411 ,,,Nontox multinodul goiter
+2419 ,,,Nontox nodul goiter NOS 
+24200,,,Tox dif goiter no crisis
+24201,,,Tox dif goiter w crisis 
+24210,,,Tox uninod goit no cris 
+24211,,,Tox uninod goit w crisis
+24220,,,Tox multnod goit no cris
+24221,,,Tox multnod goit w cris 
+24230,,,Tox nod goiter no crisis
+24231,,,Tox nod goiter w crisis 
+24240,,,Thyrotox-ect nod no cris
+24241,,,Thyrotox-ect nod w cris 
+24280,,,Thyrtox orig NEC no cris
+24281,,,Thyrotox orig NEC w cris
+24290,,,Thyrotox NOS no crisis 
+24291,,,Thyrotox NOS w crisis 
+243 ,,,Congenital hypothyroidsm
+2440 ,,,Postsurgical hypothyroid
+2441 ,,,Postablat hypothyr NEC 
+2442 ,,,Iodine hypothyroidism 
+2443 ,,,Iatrogen hypothyroid NEC
+2448 ,,,Acquired hypothyroid NEC
+2449 ,,,Hypothyroidism NOS 
+2450 ,,,Acute thyroiditis 
+2451 ,,,Subacute thyroiditis 
+2452 ,,,Chr lymphocyt thyroidit 
+2453 ,,,Chr fibrous thyroiditis 
+2454 ,,,Iatrogenic thyroiditis 
+2458 ,,,Chr thyroiditis NEC/NOS 
+2459 ,,,Thyroiditis NOS 
+2460 ,,,Dis thyrocalciton secret
+2461 ,,,Dyshormonogenic goiter 
+2462 ,,,Cyst of thyroid 
+2463 ,,,Hemorr/infarc thyroid 
+2468 ,,,Disorders of thyroid NEC
+2469 ,,,Disorder of thyroid NOS 
+24900,19,19,Sec DM wo cmp nt st uncn
+24901,19,19,Sec DM wo comp uncontrld
+24910,17,17,Sec DM keto nt st uncntr
+24911,17,17,Sec DM ketoacd uncntrld 
+24920,17,17,Sec DM hpros nt st uncnr
+24921,17,17,Sec DM hprosmlr uncntrld
+24930,17,17,Sec DM ot cma nt st uncn
+24931,17,17,Sec DM oth coma uncntrld
+24940,15,18,Sec DM renl nt st uncntr
+24941,15,18,Sec DM renal uncontrld 
+24950,18,18,Sec DM ophth nt st uncn 
+24951,18,18,Sec DM ophth uncontrld 
+24960,16,18,Sec DM neuro nt st uncn 
+24961,16,18,Sec DM neuro uncontrld 
+24970,15,18,Sec DM circ nt st uncntr
+24971,15,18,Sec DM circ uncontrld 
+24980,16,18,Sec DM oth nt st uncontr
+24981,16,18,Sec DM other uncontrld 
+24990,18,18,Sec DM unsp nt st uncon 
+24991,18,18,Sec DM unsp uncontrold 
+25000,19,19,DMII wo cmp nt st uncntr
+25001,19,19,DMI wo cmp nt st uncntrl
+25002,19,19,DMII wo cmp uncntrld 
+25003,19,19,DMI wo cmp uncntrld 
+25010,17,17,DMII keto nt st uncntrld
+25011,17,17,DMI keto nt st uncntrld 
+25012,17,17,DMII ketoacd uncontrold 
+25013,17,17,DMI ketoacd uncontrold 
+25020,17,17,DMII hprsm nt st uncntrl
+25021,17,17,DMI hprsm nt st uncntrld
+25022,17,17,DMII hprosmlr uncontrold
+25023,17,17,DMI hprosmlr uncontrold 
+25030,17,17,DMII o cm nt st uncntrld
+25031,17,17,DMI o cm nt st uncntrld 
+25032,17,17,DMII oth coma uncontrold
+25033,17,17,DMI oth coma uncontrold 
+25040,15,18,DMII renl nt st uncntrld
+25041,15,18,DMI renl nt st uncntrld 
+25042,15,18,DMII renal uncntrld 
+25043,15,18,DMI renal uncntrld 
+25050,18,18,DMII ophth nt st uncntrl
+25051,18,18,DMI ophth nt st uncntrld
+25052,18,18,DMII ophth uncntrld 
+25053,18,18,DMI ophth uncntrld 
+25060,16,18,DMII neuro nt st uncntrl
+25061,16,18,DMI neuro nt st uncntrld
+25062,16,18,DMII neuro uncntrld 
+25063,16,18,DMI neuro uncntrld 
+25070,15,18,DMII circ nt st uncntrld
+25071,15,18,DMI circ nt st uncntrld 
+25072,15,18,DMII circ uncntrld 
+25073,15,18,DMI circ uncntrld 
+25080,16,18,DMII oth nt st uncntrld 
+25081,16,18,DMI oth nt st uncntrld 
+25082,16,18,DMII oth uncntrld 
+25083,16,18,DMI oth uncntrld 
+25090,18,18,DMII unspf nt st uncntrl
+25091,18,18,DMI unspf nt st uncntrld
+25092,18,18,DMII unspf uncntrld 
+25093,18,18,DMI unspf uncntrld 
+2510 ,,23,Hypoglycemic coma 
+2514 ,32,,Abn secretion glucagon 
+2515 ,32,,Abnorm secretion gastrin
+2518 ,32,,Pancreatic disorder NEC 
+2519 ,32,,Pancreatic disorder NOS 
+25200,,23,Hyperparathyroidism NOS 
+25201,,23,Primary hyperparathyroid
+25202,,23,Sec hyprprthyrd nonrenal
+25208,,23,Hyperparathyroidism NEC 
+2521 ,,23,Hypoparathyroidism 
+2528 ,,23,Parathyroid disorder NEC
+2529 ,,23,Parathyroid disorder NOS
+2530 ,,23,Acromegaly and gigantism
+2531 ,,23,Ant pituit hyperfunc NEC
+2532 ,,23,Panhypopituitarism 
+2533 ,,23,Pituitary dwarfism 
+2534 ,,23,Anter pituitary dis NEC 
+2535 ,,23,Diabetes insipidus 
+2536 ,,23,Neurohypophysis dis NEC 
+2537 ,,23,Iatrogenic pituitary dis
+2538 ,,23,Pituitary disorder NEC 
+2539 ,,23,Pituitary disorder NOS 
+2540 ,,23,Persist hyperplas thymus
+2541 ,,23,Abscess of thymus 
+2548 ,,23,Diseases of thymus NEC 
+2549 ,,23,Disease of thymus NOS 
+2550 ,,23,Cushing's syndrome 
+25510,,23,Hyperaldosteronism NOS 
+25511,,23,Glucrtcod-rem aldsternsm
+25512,,23,Conn's syndrome 
+25513,,23,Bartter's syndrome 
+25514,,23,Secondry aldosternsm NEC
+2552 ,,23,Adrenogenital disorders 
+2553 ,,23,Corticoadren overact NEC
+25541,,23,Glucocorticoid deficient
+25542,,23,Mineralcorticoid defcnt 
+2555 ,,23,Adrenal hypofunction NEC
+2556 ,,23,Medulloadrenal hyperfunc
+2558 ,,23,Adrenal disorder NEC 
+2559 ,,23,Adrenal disorder NOS 
+25801,,23,Mult endo neoplas type I
+25802,,23,Mult endo neop type IIA 
+25803,,23,Mult endo neop type IIB 
+2581 ,,23,Comb endocr dysfunct NEC
+2588 ,,23,Polyglandul dysfunc NEC 
+2589 ,,23,Polyglandul dysfunc NOS 
+2592 ,10,12,Carcinoid syndrome 
+260 ,21,21,Kwashiorkor 
+261 ,21,21,Nutritional marasmus 
+262 ,21,21,Oth severe malnutrition 
+2630 ,21,21,Malnutrition mod degree 
+2631 ,21,21,Malnutrition mild degree
+2632 ,21,21,Arrest devel d/t malnutr
+2638 ,21,21,Protein-cal malnutr NEC 
+2639 ,21,21,Protein-cal malnutr NOS 
+2680 ,,,"Rickets, active "
+2682 ,,,Osteomalacia NOS 
+2700 ,,23,Amino-acid transport dis
+2701 ,,23,Phenylketonuria - pku 
+2702 ,,23,Arom amin-acid metab NEC
+2703 ,,23,Bran-chain amin-acid dis
+2704 ,,23,Sulph amino-acid met dis
+2705 ,,23,Dis histidine metabolism
+2706 ,,23,Dis urea cycle metabol 
+2707 ,,23,Straig amin-acid met NEC
+2708 ,,23,Dis amino-acid metab NEC
+2709 ,,23,Dis amino-acid metab NOS
+2710 ,,23,Glycogenosis 
+2711 ,,23,Galactosemia 
+2714 ,,23,Renal glycosuria 
+2718 ,,23,Dis carbohydr metab NEC 
+2719 ,,23,Dis carbohydr metab NOS 
+2720 ,,,Pure hypercholesterolem 
+2721 ,,,Pure hyperglyceridemia 
+2722 ,,,Mixed hyperlipidemia 
+2723 ,,,Hyperchylomicronemia 
+2724 ,,,Hyperlipidemia NEC/NOS 
+2725 ,,,Lipoprotein deficiencies
+2727 ,,23,Lipidoses 
+2728 ,,,Lipoid metabol dis NEC 
+2729 ,,,Lipoid metabol dis NOS 
+2732 ,,23,Paraproteinemia NEC 
+2733 ,,23,Macroglobulinemia 
+2734 ,,23,Alpha-1-antitrypsin def 
+27501,,23,Heredit hemochromatosis 
+27503,,,Hemochromatosis NEC 
+27509,,,Disord iron metablsm NEC
+2751 ,,,Dis copper metabolism 
+2753 ,,,Dis phosphorus metabol 
+27700,107,110,Cystic fibros w/o ileus 
+27701,107,110,Cystic fibrosis w ileus 
+27702,107,110,Cystic fibros w pul man 
+27703,107,110,Cystic fibrosis w GI man
+27709,107,110,Cystic fibrosis NEC 
+2771 ,,23,Dis porphyrin metabolism
+2772 ,,23,Purine/pyrimid dis NEC 
+27730,,23,Amyloidosis NOS 
+27731,,23,Fam Mediterranean fever 
+27739,,23,Amyloidosis NEC 
+2775 ,,23,Mucopolysaccharidosis 
+2776 ,,23,Defic circul enzyme NEC 
+27781,,23,Primary carnitine defncy
+27782,,23,Crnitne def d/t nb met 
+27783,,23,Iatrogenic carnitine def
+27784,,23,Sec carnitine defncy NEC
+27785,,23,Disorders acid oxidation
+27786,,23,Peroxisomal disorders 
+27787,,23,Dis mitochondrial metab 
+27789,,23,Metabolism disorder NEC 
+27801,,22,Morbid obesity 
+27803,,22,Obesity hypovent synd 
+27900,45,47,Hypogammaglobulinem NOS 
+27901,45,47,Selective iga immunodef 
+27902,45,47,Selective IgM immunodef 
+27903,45,47,Selective ig defic NEC 
+27904,45,47,Cong hypogammaglobulinem
+27905,45,47,Immunodefic w hyper-igm 
+27906,45,47,Common variabl immunodef
+27909,45,47,Humoral immunity def NEC
+27910,45,47,Immundef t-cell def NOS 
+27911,45,47,Digeorge's syndrome 
+27912,45,47,Wiskott-aldrich syndrome
+27913,45,47,Nezelof's syndrome 
+27919,45,47,Defic cell immunity NOS 
+2792 ,45,47,Combined immunity defic 
+2793 ,45,47,Immunity deficiency NOS 
+27941,45,47,Autoimmun lymphprof synd
+27949,45,47,Autoimmune disease NEC 
+27950,45,47,Graft-versus-host NOS 
+27951,45,47,Ac graft-versus-host dis
+27952,45,47,Chronc graft-vs-host dis
+27953,45,47,Ac on chrn grft-vs-host 
+2798 ,45,47,Immune mechanism dis NEC
+2799 ,45,47,Immune mechanism dis NOS
+2820 ,,48,Hereditary spherocytosis
+2821 ,,48,Heredit elliptocytosis 
+2822 ,,48,Glutathione dis anemia 
+2823 ,,48,Enzyme defic anemia NEC 
+28241,44,46,Thlasema Hb-S w/o crisis
+28242,44,46,Thlassemia Hb-S w crisis
+28243,,48,Alpha thalassemia 
+28244,,48,Beta thalassemia 
+28245,,48,Delta-beta thalassemia 
+28247,,48,Hgb E-beta thalassemia 
+28249,,48,Thalassemia NEC 
+2825 ,,48,Sickle-cell trait 
+28260,44,46,Sickle cell disease NOS 
+28261,44,46,Hb-SS disease w/o crisis
+28262,44,46,Hb-SS disease w crisis 
+28263,44,46,Hb-SS/hb-C dis w/o crsis
+28264,44,46,Hb-S/Hb-C dis w crisis 
+28268,44,46,Hb-S dis w/o crisis NEC 
+28269,44,46,Hb-SS dis NEC w crisis 
+2827 ,,48,Hemoglobinopathies NEC 
+2828 ,,48,Hered hemolytic anem NEC
+2829 ,,48,Hered hemolytic anem NOS
+2830 ,44,46,Autoimmun hemolytic anem
+28310,44,46,Nonauto hem anemia NOS 
+28311,44,46,Hemolytic uremic synd 
+28319,44,46,Oth nonauto hem anemia 
+2832 ,44,46,Hemolytic hemoglobinuria
+2839 ,44,46,Acq hemolytic anemia NOS
+28401,44,46,Constitution RBC aplasia
+28409,44,46,Const aplastc anemia NEC
+28411,45,47,Antin chemo indcd pancyt
+28412,45,47,Oth drg indcd pancytopna
+28419,45,47,Other pancytopenia 
+2842 ,44,46,Myelophthisis 
+28481,44,46,Red cell aplasia 
+28489,44,46,Aplastic anemias NEC 
+2849 ,44,46,Aplastic anemia NOS 
+2850 ,,48,Sideroblastic anemia 
+2860 ,44,46,Cong factor viii diord 
+2861 ,44,46,Cong factor IX disorder 
+2862 ,,48,Cong factor xi disorder 
+2863 ,,48,Cong def clot factor NEC
+2864 ,,48,Von willebrand's disease
+28652,,48,Acquired hemophilia 
+28653,,48,Antiphospholipid w hemor
+28659,,48,Ot hem d/t circ anticoag
+2866 ,,48,Defibrination syndrome 
+2867 ,,48,Acq coagul factor defic 
+2869 ,,48,Coagulat defect NEC/NOS 
+2870 ,,48,Allergic purpura 
+2871 ,,48,Thrombocytopathy 
+2872 ,,48,Purpura NOS 
+28730,,48,Prim thrombocytopen NOS 
+28731,,48,Immune thrombocyt purpra
+28732,,48,Evans' syndrome 
+28733,,48,Cong/herid thromb purpra
+28739,,48,Prim thrombocytopen NEC 
+2875 ,,48,Thrombocytopenia NOS 
+2878 ,,48,Hemorrhagic cond NEC 
+2879 ,,48,Hemorrhagic cond NOS 
+28800,45,47,Neutropenia NOS 
+28801,45,47,Congenital neutropenia 
+28802,45,47,Cyclic neutropenia 
+28803,45,47,Drug induced neutropenia
+28804,45,47,Neutropenia d/t infectn 
+28809,45,47,Neutropenia NEC 
+2881 ,45,47,Function dis neutrophils
+2882 ,45,47,Genetic anomaly leukocyt
+2884 ,45,47,Hemophagocytic syndromes
+28952,44,46,Splenic sequestration 
+28981,,48,Prim hypercoagulable st 
+28982,,48,Sec hypercoagulable st 
+28983,,46,Myelofibrosis 
+28984,,48,Heparin-indu thrombocyto
+2900 ,,52,Senile dementia uncomp 
+29010,,52,Presenile dementia 
+29011,,51,Presenile delirium 
+29012,,51,Presenile delusion 
+29013,,51,Presenile depression 
+29020,,51,Senile delusion 
+29021,,51,Senile depressive 
+2903 ,,51,Senile delirium 
+29040,,52,"Vascular dementia,uncomp"
+29041,,51,Vasc dementia w delirium
+29042,,51,Vasc dementia w delusion
+29043,,51,Vasc dementia w depressn
+2908 ,,52,Senile psychosis NEC 
+2909 ,,52,Senile psychot cond NOS 
+2910 ,51,54,Delirium tremens 
+2911 ,51,54,Alcohol amnestic disordr
+2912 ,51,54,Alcohol persist dementia
+2913 ,51,54,Alcoh psy dis w hallucin
+2914 ,51,54,Pathologic alcohol intox
+2915 ,51,54,Alcoh psych dis w delus 
+29181,51,54,Alcohol withdrawal 
+29182,51,54,Alcoh induce sleep disor
+29189,51,54,Alcohol mental disor NEC
+2919 ,51,54,Alcohol mental disor NOS
+2920 ,51,54,Drug withdrawal 
+29211,51,54,Drug psych disor w delus
+29212,51,54,Drug psy dis w hallucin 
+2922 ,51,54,Pathologic drug intox 
+29281,51,54,Drug-induced delirium 
+29282,51,54,Drug persisting dementia
+29283,51,54,Drug persist amnestc dis
+29284,51,54,Drug-induced mood disord
+29285,51,54,Drug induced sleep disor
+29289,51,54,Drug mental disorder NEC
+2929 ,51,54,Drug mental disorder NOS
+2940 ,,52,Amnestic disord oth dis 
+29410,,52,Dementia w/o behav dist 
+29411,,51,Dementia w behavior dist
+29420,,52,Demen NOS w/o behv dstrb
+29421,,51,Demen NOS w behav distrb
+2948 ,,52,Mental disor NEC oth dis
+2949 ,,52,Mental disor NOS oth dis
+29500,54,57,Simpl schizophren-unspec
+29501,54,57,Simpl schizophren-subchr
+29502,54,57,Simple schizophren-chr 
+29503,54,57,Simp schiz-subchr/exacer
+29504,54,57,Simpl schizo-chr/exacerb
+29505,54,57,Simpl schizophren-remiss
+29510,54,57,Hebephrenia-unspec 
+29511,54,57,Hebephrenia-subchronic 
+29512,54,57,Hebephrenia-chronic 
+29513,54,57,Hebephren-subchr/exacerb
+29514,54,57,Hebephrenia-chr/exacerb 
+29515,54,57,Hebephrenia-remission 
+29520,54,57,Catatonia-unspec 
+29521,54,57,Catatonia-subchronic 
+29522,54,57,Catatonia-chronic 
+29523,54,57,Catatonia-subchr/exacerb
+29524,54,57,Catatonia-chr/exacerb 
+29525,54,57,Catatonia-remission 
+29530,54,57,Paranoid schizo-unspec 
+29531,54,57,Paranoid schizo-subchr 
+29532,54,57,Paranoid schizo-chronic 
+29533,54,57,Paran schizo-subchr/exac
+29534,54,57,Paran schizo-chr/exacerb
+29535,54,57,Paranoid schizo-remiss 
+29540,54,57,Schizophreniform dis NOS
+29541,54,57,Schizophrenic dis-subchr
+29542,54,57,Schizophren dis-chronic 
+29543,54,57,Schizo dis-subchr/exacer
+29544,54,57,Schizophr dis-chr/exacer
+29545,54,57,Schizophrenic dis-remiss
+29550,54,57,Latent schizophren-unsp 
+29551,54,57,Lat schizophren-subchr 
+29552,54,57,Latent schizophren-chr 
+29553,54,57,Lat schizo-subchr/exacer
+29554,54,57,Latent schizo-chr/exacer
+29555,54,57,Lat schizophren-remiss 
+29560,54,57,Schizophr dis resid NOS 
+29561,54,57,Schizoph dis resid-subch
+29562,54,57,Schizophr dis resid-chr 
+29563,54,57,Schizo resid subchr/exac
+29564,54,57,Schizoph resid-chro/exac
+29565,54,57,Schizoph dis resid-remis
+29570,54,57,Schizoaffective dis NOS 
+29571,54,57,Schizoaffectv dis-subchr
+29572,54,57,Schizoaffective dis-chr 
+29573,54,57,Schizoaff dis-subch/exac
+29574,54,57,Schizoafftv dis-chr/exac
+29575,54,57,Schizoaffectve dis-remis
+29580,54,57,Schizophrenia NEC-unspec
+29581,54,57,Schizophrenia NEC-subchr
+29582,54,57,Schizophrenia NEC-chr 
+29583,54,57,Schizo NEC-subchr/exacer
+29584,54,57,Schizo NEC-chr/exacerb 
+29585,54,57,Schizophrenia NEC-remiss
+29590,54,57,Schizophrenia NOS-unspec
+29591,54,57,Schizophrenia NOS-subchr
+29592,54,57,Schizophrenia NOS-chr 
+29593,54,57,Schizo NOS-subchr/exacer
+29594,54,57,Schizo NOS-chr/exacerb 
+29595,54,57,Schizophrenia NOS-remiss
+29600,55,58,Bipol I single manic NOS
+29601,55,58,Bipol I single manc-mild
+29602,55,58,Bipol I single manic-mod
+29603,55,58,Bipol I sing-sev w/o psy
+29604,55,58,Bipo I sin man-sev w psy
+29605,55,58,Bipol I sing man rem NOS
+29606,55,58,Bipol I single manic rem
+29610,55,58,Recur manic dis-unspec 
+29611,55,58,Recur manic dis-mild 
+29612,55,58,Recur manic dis-mod 
+29613,55,58,Recur manic dis-severe 
+29614,55,58,Recur manic-sev w psycho
+29615,55,58,Recur manic-part remiss 
+29616,55,58,Recur manic-full remiss 
+29620,55,58,Depress psychosis-unspec
+29621,55,58,Depress psychosis-mild 
+29622,55,58,Depressive psychosis-mod
+29623,55,58,Depress psychosis-severe
+29624,55,58,Depr psychos-sev w psych
+29625,55,58,Depr psychos-part remiss
+29626,55,58,Depr psychos-full remiss
+29630,55,58,Recurr depr psychos-unsp
+29631,55,58,Recurr depr psychos-mild
+29632,55,58,Recurr depr psychos-mod 
+29633,55,58,Recur depr psych-severe 
+29634,55,58,Rec depr psych-psychotic
+29635,55,58,Recur depr psyc-part rem
+29636,55,58,Recur depr psyc-full rem
+29640,55,58,Bipol I currnt manic NOS
+29641,55,58,Bipol I curnt manic-mild
+29642,55,58,Bipol I currnt manic-mod
+29643,55,58,Bipol I manc-sev w/o psy
+29644,55,58,Bipol I manic-sev w psy 
+29645,55,58,Bipol I cur man part rem
+29646,55,58,Bipol I cur man full rem
+29650,55,58,Bipol I cur depres NOS 
+29651,55,58,Bipol I cur depress-mild
+29652,55,58,Bipol I cur depress-mod 
+29653,55,58,Bipol I curr dep w/o psy
+29654,55,58,Bipol I currnt dep w psy
+29655,55,58,Bipol I cur dep rem NOS 
+29656,55,58,Bipol I currnt dep remis
+29660,55,58,Bipol I currnt mixed NOS
+29661,55,58,Bipol I currnt mix-mild 
+29662,55,58,Bipol I currnt mixed-mod
+29663,55,58,Bipol I cur mix w/o psy 
+29664,55,58,Bipol I cur mixed w psy 
+29665,55,58,Bipol I cur mix-part rem
+29666,55,58,Bipol I cur mixed remiss
+2967 ,55,58,Bipolor I current NOS 
+29680,55,58,Bipolar disorder NOS 
+29681,55,58,Atypical manic disorder 
+29682,55,58,Atypical depressive dis 
+29689,55,58,Bipolar disorder NEC 
+29690,55,58,Episodic mood disord NOS
+29699,55,58,Episodic mood disord NEC
+2970 ,55,58,"Paranoid state, simple "
+2971 ,55,58,Delusional disorder 
+2972 ,55,58,Paraphrenia 
+2973 ,55,58,Shared psychotic disord 
+2978 ,55,58,Paranoid states NEC 
+2979 ,55,58,Paranoid state NOS 
+29900,,,Autistic disord-current 
+29901,,,Autistic disord-residual
+29910,,,Childhd disintegr-active
+29911,,,Childhd disintegr-resid 
+29980,,,Pervasv dev dis-cur NEC 
+29981,,,Pervasv dev dis-res NEC 
+29990,,,Pervasv dev dis-cur NOS 
+29991,,,Pervasv dev dis-res NOS 
+30001,,,Panic dis w/o agorphobia
+30002,,,Generalized anxiety dis 
+30010,,,Hysteria NOS 
+30011,,,Conversion disorder 
+30012,,,Dissociative amnesia 
+30013,,,Dissociative fugue 
+30014,,,Dissociatve identity dis
+30015,,,Dissociative react NOS 
+30016,,,Factitious dis w symptom
+30019,,,Factitious ill NEC/NOS 
+30020,,,Phobia NOS 
+30021,,,Agoraphobia w panic dis 
+30022,,,Agoraphobia w/o panic 
+30023,,,Social phobia 
+30029,,,Isolated/spec phobia NEC
+3003 ,,,Obsessive-compulsive dis
+3004 ,,,Dysthymic disorder 
+3006 ,,,Depersonalization disord
+3007 ,,,Hypochondriasis 
+30081,,,Somatization disorder 
+30082,,,Undiff somatoform disrdr
+30089,,,Somatoform disorders NEC
+30110,,,Affectiv personality NOS
+30111,,,Chronic hypomanic person
+30112,,,Chr depressive person 
+30113,,,Cyclothymic disorder 
+3013 ,,,Explosive personality 
+3014 ,,,Obsessive-compulsive dis
+30183,,,Borderline personality 
+30300,52,55,Ac alcohol intox-unspec 
+30301,52,55,Ac alcohol intox-contin 
+30302,52,55,Ac alcohol intox-episod 
+30303,52,55,Ac alcohol intox-remiss 
+30390,52,55,Alcoh dep NEC/NOS-unspec
+30391,52,55,Alcoh dep NEC/NOS-contin
+30392,52,55,Alcoh dep NEC/NOS-episod
+30393,52,55,Alcoh dep NEC/NOS-remiss
+30400,52,55,Opioid dependence-unspec
+30401,52,55,Opioid dependence-contin
+30402,52,55,Opioid dependence-episod
+30403,52,55,Opioid dependence-remiss
+30410,52,55,"Sed,hyp,anxiolyt dep-NOS"
+30411,52,55,"Sed,hyp,anxiolyt dep-con"
+30412,52,55,"Sed,hyp,anxiolyt dep-epi"
+30413,52,55,"Sed,hyp,anxiolyt dep-rem"
+30420,52,55,Cocaine depend-unspec 
+30421,52,55,Cocaine depend-contin 
+30422,52,55,Cocaine depend-episodic 
+30423,52,55,Cocaine depend-remiss 
+30430,52,55,Cannabis depend-unspec 
+30431,52,55,Cannabis depend-contin 
+30432,52,55,Cannabis depend-episodic
+30433,52,55,Cannabis depend-remiss 
+30440,52,55,Amphetamin depend-unspec
+30441,52,55,Amphetamin depend-contin
+30442,52,55,Amphetamin depend-episod
+30443,52,55,Amphetamin depend-remiss
+30450,52,55,Hallucinogen dep-unspec 
+30451,52,55,Hallucinogen dep-contin 
+30452,52,55,Hallucinogen dep-episod 
+30453,52,55,Hallucinogen dep-remiss 
+30460,52,55,Drug depend NEC-unspec 
+30461,52,55,Drug depend NEC-contin 
+30462,52,55,Drug depend NEC-episodic
+30463,52,55,Drug depend NEC-in rem 
+30470,52,55,Opioid/other dep-unspec 
+30471,52,55,Opioid/other dep-contin 
+30472,52,55,Opioid/other dep-episod 
+30473,52,55,Opioid/other dep-remiss 
+30480,52,55,Comb drug dep NEC-unspec
+30481,52,55,Comb drug dep NEC-contin
+30482,52,55,Comb drug dep NEC-episod
+30483,52,55,Comb drug dep NEC-remiss
+30490,52,55,Drug depend NOS-unspec 
+30491,52,55,Drug depend NOS-contin 
+30492,52,55,Drug depend NOS-episodic
+30493,52,55,Drug depend NOS-remiss 
+3071 ,,,Anorexia nervosa 
+30723,,,Tourette's disorder 
+3073 ,,,Stereotypic movement dis
+30751,,,Bulimia nervosa 
+3091 ,,,Prolong depressive react
+30981,,,Posttraumatic stress dis
+311 ,,,Depressive disorder NEC 
+31200,,,Unsocial aggress-unspec 
+31201,,,Unsocial aggression-mild
+31202,,,Unsocial aggression-mod 
+31203,,,Unsocial aggress-severe 
+31210,,,Unsocial unaggress-unsp 
+31211,,,Unsocial unaggress-mild 
+31212,,,Unsocial unaggress-mod 
+31213,,,Unsocial unaggr-severe 
+31220,,,Social conduct dis-unsp 
+31221,,,Social conduct dis-mild 
+31222,,,Social conduct dis-mod 
+31223,,,Social conduct dis-sev 
+31230,,,Impulse control dis NOS 
+31231,,,Pathological gambling 
+31232,,,Kleptomania 
+31233,,,Pyromania 
+31234,,,Intermitt explosive dis 
+31235,,,Isolated explosive dis 
+31239,,,Impulse control dis NEC 
+3124 ,,,Mix dis conduct/emotion 
+31281,,,Cndct dsrdr chldhd onst 
+31282,,,Cndct dsrdr adlscnt onst
+31289,,,Other conduct disorder 
+3129 ,,,Conduct disturbance NOS 
+31381,,,Opposition defiant disor
+31400,,,Attn defic nonhyperact 
+31401,,,Attn deficit w hyperact 
+3141 ,,,Hyperkinet w devel delay
+3142 ,,,Hyperkinetic conduct dis
+3148 ,,,Other hyperkinetic synd 
+3149 ,,,Hyperkinetic synd NOS 
+317 ,,,Mild intellect disabilty
+3180 ,,,Mod intellect disability
+3181 ,,,Sev intellect disability
+3182 ,,,Profnd intellct disablty
+319 ,,,Intellect disability NOS
+3210 ,5,6,Cryptococcal meningitis 
+32302,,72,Myelitis-oth viral dis 
+32342,,72,Oth myelitis ot inf else
+32352,,72,Myelitis follwg immune 
+32363,,72,Postinfectious myelitis 
+32372,,72,Toxic myelitis 
+32382,,72,Myelitis cause NEC 
+3300 ,,52,Leukodystrophy 
+3301 ,,52,Cerebral lipidoses 
+3302 ,,52,Cereb degen in lipidosis
+3303 ,,52,Cerb deg chld in oth dis
+3308 ,,52,Cereb degen in child NEC
+3309 ,,52,Cereb degen in child NOS
+3310 ,,52,Alzheimer's disease 
+33111,,52,Pick's disease 
+33119,,52,Frontotemp dementia NEC 
+3312 ,,52,Senile degenerat brain 
+3313 ,,51,Communicat hydrocephalus
+3314 ,,51,Obstructiv hydrocephalus
+3315 ,,51,Norml pressure hydroceph
+3316 ,,52,Corticobasal degneration
+3317 ,,52,Cereb degen in oth dis 
+33181,,52,Reye's syndrome 
+33182,,52,Dementia w Lewy bodies 
+33189,,52,Cereb degeneration NEC 
+3319 ,,52,Cereb degeneration NOS 
+3320 ,73,78,Paralysis agitans 
+3321 ,73,78,Secondary parkinsonism 
+3330 ,73,78,Degen basal ganglia NEC 
+3334 ,73,78,Huntington's chorea 
+33371,101,74,Athetoid cerebral palsy 
+3340 ,69,72,Friedreich's ataxia 
+3341 ,69,72,Hered spastic paraplegia
+3342 ,69,72,Primary cerebellar degen
+3343 ,69,72,Cerebellar ataxia NEC 
+3344 ,69,72,Cerebel atax in oth dis 
+3348 ,69,72,Spinocerebellar dis NEC 
+3349 ,69,72,Spinocerebellar dis NOS 
+3350 ,67,72,Werdnig-hoffmann disease
+33510,67,72,Spinal muscl atrophy NOS
+33511,67,72,Kugelberg-welander dis 
+33519,67,72,Spinal muscl atrophy NEC
+33520,67,73,Amyotrophic sclerosis 
+33521,67,73,Prog muscular atrophy 
+33522,67,73,Progressive bulbar palsy
+33523,67,73,Pseudobulbar palsy 
+33524,67,73,Prim lateral sclerosis 
+33529,67,73,Motor neuron disease NEC
+3358 ,67,72,Ant horn cell dis NEC 
+3359 ,67,72,Ant horn cell dis NOS 
+3360 ,69,72,Syringomyelia 
+3361 ,69,72,Vascular myelopathies 
+3362 ,69,72,Comb deg cord in oth dis
+3363 ,69,72,Myelopathy in oth dis 
+3368 ,69,72,Myelopathy NEC 
+3369 ,69,72,Spinal cord disease NOS 
+33700,71,75,Idio perph auto neur NOS
+33701,,75,Carotid sinus syndrome 
+33709,71,75,Idio perph auto neur NEC
+3371 ,71,75,Aut neuropthy in oth dis
+33720,71,75,Unsp rflx sympth dystrph
+33721,71,75,Rflx sym dystrph up limb
+33722,71,75,Rflx sym dystrph lwr lmb
+33729,71,75,Rflx sym dystrph oth st 
+3373 ,71,75,Autonomic dysreflexia 
+3379 ,71,75,Autonomic nerve dis NEC 
+340 ,72,77,Multiple sclerosis 
+3410 ,72,77,Neuromyelitis optica 
+3411 ,72,77,Schilder's disease 
+34120,,72,Acute myelitis NOS 
+34121,,72,Acute myelitis oth cond 
+34122,,72,Idiopathc trans myelitis
+3418 ,72,77,Cns demyelination NEC 
+3419 ,72,77,Cns demyelination NOS 
+34200,100,103,Flccd hmiplga unspf side
+34201,100,103,Flccd hmiplga domnt side
+34202,100,103,Flccd hmiplg nondmnt sde
+34210,100,103,Spstc hmiplga unspf side
+34211,100,103,Spstc hmiplga domnt side
+34212,100,103,Spstc hmiplg nondmnt sde
+34280,100,103,Ot sp hmiplga unspf side
+34281,100,103,Ot sp hmiplga domnt side
+34282,100,103,Ot sp hmiplg nondmnt sde
+34290,100,103,Unsp hemiplga unspf side
+34291,100,103,Unsp hemiplga domnt side
+34292,100,103,Unsp hmiplga nondmnt sde
+3430 ,68,74,Congenital diplegia 
+3431 ,100,74,Congenital hemiplegia 
+3432 ,67,74,Congenital quadriplegia 
+3433 ,101,74,Congenital monoplegia 
+3434 ,100,74,Infantile hemiplegia 
+3438 ,101,74,Cerebral palsy NEC 
+3439 ,101,74,Cerebral palsy NOS 
+34400,67,70,"Quadriplegia, unspecifd "
+34401,67,70,"Quadrplg c1-c4, complete"
+34402,67,70,"Quadrplg c1-c4, incomplt"
+34403,67,70,"Quadrplg c5-c7, complete"
+34404,67,70,"Quadrplg c5-c7, incomplt"
+34409,67,70,Other quadriplegia 
+3441 ,68,71,Paraplegia NOS 
+3442 ,101,104,Diplegia of upper limbs 
+34430,101,104,Monplga lwr lmb unsp sde
+34431,101,104,Monplga lwr lmb dmnt sde
+34432,101,104,Mnplg lwr lmb nondmnt sd
+34440,101,104,Monplga upr lmb unsp sde
+34441,101,104,Monplga upr lmb dmnt sde
+34442,101,104,Mnplg upr lmb nondmnt sd
+3445 ,101,104,Monoplegia NOS 
+34460,69,72,Cauda equina synd NOS 
+34461,69,72,Neurogenic bladder 
+34481,67,104,Locked-in state 
+34489,101,104,Oth spcf paralytic synd 
+3449 ,101,104,Paralysis NOS 
+34500,74,79,Gen noncv ep w/o intr ep
+34501,74,79,Gen nonconv ep w intr ep
+34510,74,79,Gen cnv epil w/o intr ep
+34511,74,79,Gen cnv epil w intr epil
+3452 ,74,79,Petit mal status 
+3453 ,74,79,Grand mal status 
+34540,74,79,Psymotr epil w/o int epi
+34541,74,79,Psymotr epil w intr epil
+34550,74,79,Part epil w/o intr epil 
+34551,74,79,Part epil w intr epil 
+34560,74,79,Inf spasm w/o intr epil 
+34561,74,79,Inf spasm w intract epil
+34570,74,79,Epil par cont w/o int ep
+34571,74,79,Epil par cont w intr epi
+34580,74,79,Epilep NEC w/o intr epil
+34581,74,79,Epilepsy NEC w intr epil
+34590,74,79,Epilep NOS w/o intr epil
+34591,74,79,Epilepsy NOS w intr epil
+34600,,,Mgrn w aura wo ntrc mgrn
+34601,,,Mgrn w aura w ntrc mgrn 
+34602,,,Mgrn w aur wo ntrc mgrn 
+34603,,,Mgrn w aura w ntrc mgrn 
+34610,,,Mgrn wo aura wo ntrc mgr
+34611,,,Mgrn wo aura w ntrc mgrn
+34612,,,Mgrn wo aura wo ntrc mgr
+34613,,,Mgrn wo aura w ntrc mgrn
+34620,,,Vrnt mgrn wo ntr mgr NEC
+34621,,,Vrnt mgrn w ntrc mgr NEC
+34622,,,Var mgr NEC wo ntc mgr 
+34623,,,Var mgrn NEC w ntrc mgr 
+34630,,,Hmplg mgr wo ntrc wo st 
+34631,,,Hmplg mgrn w ntrc wo st 
+34632,,,Hemplg mgr wo ntrc w st 
+34633,,,Hmplg mgrn w ntrc w st 
+34640,,,Menst mgr wo ntrc wo st 
+34641,,,Menstl mgrn w ntrc wo st
+34642,,,Menstl mgr wo ntrc w st 
+34643,,,Menstl mgrn w ntrc w st 
+34650,,,Prst aura wo inf/ntr/st 
+34651,,,Prs ara w ntr wo inf/st 
+34652,,,Prs ara wo inf/ntr w st 
+34653,,,Prs ara wo inf w ntr/st 
+34660,,,Prs ara w inf wo ntr/st 
+34661,,,Prs ara w/inf/ntr wo st 
+34662,,,Prs ara wo ntr w inf/st 
+34663,,,Prst ara w inf w ntr/st 
+34670,,,Ch mgr wo ar wo nt wo st
+34671,,,Ch mgr wo ara w nt wo st
+34672,,,Ch mgr wo ara wo nt w st
+34673,,,Ch mgr wo ara w ntr w st
+34680,,,Othr migrne wo ntrc mgrn
+34681,,,Othr migrne w ntrc mgrne
+34682,,,Oth mgr wo ntrc w st mgr
+34683,,,Oth mgr w ntrc w st mgr 
+34690,,,Migrne unsp wo ntrc mgrn
+34691,,,Mgrn unsp w ntrc mgr std
+34692,,,Mgr NOS wo ntrc w st mgr
+34693,,,Mgrn NOS w ntrc w st mgr
+34700,,,Narcolepsy w/o cataplexy
+34701,,,Narcolepsy w cataplexy 
+34710,,,Narclpsy w/o cat oth dis
+34711,,,Narcolepsy w cat oth dis
+3481 ,75,80,Anoxic brain damage 
+3484 ,75,80,Compression of brain 
+3485 ,75,80,Cerebral edema 
+3491 ,164,176,Complication cns device 
+3501 ,,,Trigeminal neuralgia 
+3502 ,,,Atypical face pain 
+3508 ,,,Trigeminal nerve dis NEC
+3509 ,,,Trigeminal nerve dis NOS
+3536 ,177,189,Phantom limb (syndrome) 
+3560 ,71,75,Hered periph neuropathy 
+3561 ,71,75,Peroneal muscle atrophy 
+3562 ,71,75,Hered sensory neuropathy
+3563 ,71,75,Refsum's disease 
+3564 ,71,75,Idio prog polyneuropathy
+3568 ,71,75,Idio periph neurpthy NEC
+3569 ,71,75,Idio periph neurpthy NOS
+3570 ,71,75,Ac infect polyneuritis 
+3571 ,71,75,Neurpthy in col vasc dis
+3572 ,71,75,Neuropathy in diabetes 
+3573 ,71,75,Neuropathy in malig dis 
+3574 ,71,75,Neuropathy in other dis 
+3575 ,71,75,Alcoholic polyneuropathy
+3576 ,71,75,Neuropathy due to drugs 
+3577 ,71,75,Neurpthy toxic agent NEC
+35781,71,75,Chr inflam polyneuritis 
+35782,71,75,Crit illness neuropathy 
+35789,71,75,Inflam/tox neuropthy NEC
+3579 ,71,75,Inflam/tox neuropthy NOS
+35800,71,75,Mysthna grvs w/o ac exac
+35801,71,75,Myasthna gravs w ac exac
+3581 ,71,75,Myasthenia in oth dis 
+3582 ,71,75,Toxic myoneural disorder
+35830,71,75,Lambert-Eaton synd NOS 
+35831,71,75,Lambert-Eaton synd neopl
+35839,71,75,Lambert-Eaton syn ot dis
+3588 ,71,75,Myoneural disorders NEC 
+3589 ,71,75,Myoneural disorders NOS 
+3590 ,70,76,Cong hered musc dystrphy
+3591 ,70,76,Hered prog musc dystrphy
+35921,70,76,Myotonic musclr dystrphy
+35922,71,75,Myotonia congenita 
+35923,71,75,Myotonic chondrodystrphy
+35924,71,75,Drug induced myotonia 
+35929,71,75,Myotonic disorder NEC 
+3593 ,71,75,Periodic paralysis 
+3594 ,71,75,Toxic myopathy 
+3595 ,71,75,Myopathy in endocrin dis
+3596 ,71,75,Infl myopathy in oth dis
+35971,71,75,Inclusion body myositis 
+35979,71,75,Inflm/immune myopath NEC
+35981,71,75,Critical illness myopthy
+35989,71,75,Myopathies NEC 
+3599 ,71,75,Myopathy NOS 
+36201,,18,Diabetic retinopathy NOS
+36202,119,122,Prolif diab retinopathy 
+36203,,18,Nonprolf db retnoph NOS 
+36204,,18,Mild nonprolf db retnoph
+36205,,18,Mod nonprolf db retinoph
+36206,,18,Sev nonprolf db retinoph
+36207,,18,Diabetic macular edema 
+36252,,124,Exudative macular degen 
+36510,,,Open-angle glaucoma NOS 
+36511,,,Prim open angle glaucoma
+36512,,,Low tension glaucoma 
+36513,,,Pigmentary glaucoma 
+36514,,,Glaucoma of childhood 
+36515,,,Residual opn ang glaucma
+36641,,18,Diabetic cataract 
+37923,119,122,Vitreous hemorrhage 
+39891,,85,Rheumatic heart failure 
+4010 ,,,Malignant hypertension 
+4011 ,,,Benign hypertension 
+4019 ,,,Hypertension NOS 
+40200,,,Mal hyp ht dis w/o hf 
+40201,80,85,Mal hypert hrt dis w hf 
+40210,,,Benign hyp ht dis w/o hf
+40211,80,85,Benign hyp ht dis w hf 
+40290,,,Hyp hrt dis NOS w/o hf 
+40291,80,85,Hyp ht dis NOS w ht fail
+40300,,139,Mal hy kid w cr kid I-IV
+40301,131,136,Mal hyp kid w cr kid V 
+40310,,139,Ben hy kid w cr kid I-IV
+40311,131,136,Ben hyp kid w cr kid V 
+40390,,139,Hy kid NOS w cr kid I-IV
+40391,131,136,Hyp kid NOS w cr kid V 
+40400,,139,Mal hy ht/kd I-IV w/o hf
+40401,80,139,Mal hyp ht/kd I-IV w hf 
+40402,131,136,Mal hy ht/kd st V w/o hf
+40403,131,136,Mal hyp ht/kd stg V w hf
+40410,,139,Ben hy ht/kd I-IV w/o hf
+40411,80,139,Ben hyp ht/kd I-IV w hf 
+40412,131,136,Ben hy ht/kd st V w/o hf
+40413,131,136,Ben hyp ht/kd stg V w hf
+40490,,139,Hy ht/kd NOS I-IV w/o hf
+40491,80,139,Hyp ht/kd NOS I-IV w hf 
+40492,131,136,Hy ht/kd NOS st V w/o hf
+40493,131,136,Hyp ht/kd NOS st V w hf 
+40501,,,Mal renovasc hypertens 
+40509,,,Mal second hyperten NEC 
+40511,,,Benign renovasc hyperten
+40519,,,Benign second hypert NEC
+40591,,,Renovasc hypertension 
+40599,,,Second hypertension NEC 
+41000,82,87,"AMI anterolateral,unspec"
+41001,81,86,"AMI anterolateral, init "
+41002,82,87,"AMI anterolateral,subseq"
+41010,82,87,"AMI anterior wall,unspec"
+41011,81,86,"AMI anterior wall, init "
+41012,82,87,"AMI anterior wall,subseq"
+41020,82,87,"AMI inferolateral,unspec"
+41021,81,86,"AMI inferolateral, init "
+41022,82,87,"AMI inferolateral,subseq"
+41030,82,87,"AMI inferopost, unspec "
+41031,81,86,"AMI inferopost, initial "
+41032,82,87,"AMI inferopost, subseq "
+41040,82,87,"AMI inferior wall,unspec"
+41041,81,86,"AMI inferior wall, init "
+41042,82,87,"AMI inferior wall,subseq"
+41050,82,87,"AMI lateral NEC, unspec "
+41051,81,86,"AMI lateral NEC, initial"
+41052,82,87,"AMI lateral NEC, subseq "
+41060,82,87,"True post infarct,unspec"
+41061,81,86,"True post infarct, init "
+41062,82,87,"True post infarct,subseq"
+41070,82,87,"Subendo infarct, unspec "
+41071,81,86,"Subendo infarct, initial"
+41072,82,87,"Subendo infarct, subseq "
+41080,82,87,"AMI NEC, unspecified "
+41081,81,86,"AMI NEC, initial "
+41082,82,87,"AMI NEC, subsequent "
+41090,82,87,"AMI NOS, unspecified "
+41091,81,86,"AMI NOS, initial "
+41092,82,87,"AMI NOS, subsequent "
+4110 ,82,87,Post MI syndrome 
+4111 ,82,87,Intermed coronary synd 
+41181,82,87,Acute cor occlsn w/o MI 
+41189,82,87,Ac ischemic hrt dis NEC 
+412 ,83,,Old myocardial infarct 
+4130 ,83,88,Angina decubitus 
+4131 ,83,88,Prinzmetal angina 
+4139 ,83,88,Angina pectoris NEC/NOS 
+41400,,,Cor ath unsp vsl ntv/gft
+41401,,,Crnry athrscl natve vssl
+41402,,,Crn ath atlg vn bps grft
+41403,,,Crn ath nonatlg blg grft
+41404,,,Cor ath artry bypas grft
+41405,,,Cor ath bypass graft NOS
+41406,,,Cor ath natv art tp hrt 
+41407,,,Cor ath bps graft tp hrt
+41410,,,Aneurysm of heart 
+41411,,,Aneurysm coronary vessel
+41412,,,Dissection cor artery 
+41419,,,Aneurysm of heart NEC 
+4142 ,,,Chr tot occlus cor artry
+4143 ,,,Cor ath d/t lpd rch plaq
+4144 ,,,Cor ath d/t calc cor lsn
+4148 ,,,Chr ischemic hrt dis NEC
+4149 ,,,Chr ischemic hrt dis NOS
+4150 ,80,85,Acute cor pulmonale 
+41511,104,107,Iatrogen pulm emb/infarc
+41512,104,107,Septic pulmonary embolsm
+41513,104,107,Saddle embol pulmon art 
+41519,104,107,Pulm embol/infarct NEC 
+4160 ,80,85,Prim pulm hypertension 
+4161 ,80,85,Kyphoscoliotic heart dis
+4162 ,104,107,Chr pulmonary embolism 
+4168 ,80,85,Chr pulmon heart dis NEC
+4169 ,80,85,Chr pulmon heart dis NOS
+4170 ,80,85,Arterioven fistu pul ves
+4171 ,80,85,Pulmon artery aneurysm 
+4178 ,80,85,Pulmon circulat dis NEC 
+4179 ,80,85,Pulmon circulat dis NOS 
+4250 ,80,85,Endomyocardial fibrosis 
+42511,80,85,Hyprtrophc obst cardiomy
+42518,80,85,Oth hyprtrophic cardiomy
+4252 ,80,85,Obsc afric cardiomyopath
+4253 ,80,85,Endocard fibroelastosis 
+4254 ,80,85,Prim cardiomyopathy NEC 
+4255 ,80,85,Alcoholic cardiomyopathy
+4257 ,80,85,Metabolic cardiomyopathy
+4258 ,80,85,Cardiomyopath in oth dis
+4259 ,80,85,Second cardiomyopath NOS
+4260 ,92,96,Atriovent block complete
+4270 ,92,96,Parox atrial tachycardia
+4271 ,92,96,Parox ventric tachycard 
+4272 ,92,96,Parox tachycardia NOS 
+42731,92,96,Atrial fibrillation 
+42732,92,96,Atrial flutter 
+42741,79,84,Ventricular fibrillation
+42742,79,84,Ventricular flutter 
+4275 ,79,84,Cardiac arrest 
+42781,92,96,Sinoatrial node dysfunct
+4280 ,80,85,CHF NOS 
+4281 ,80,85,Left heart failure 
+42820,80,85,Systolic hrt failure NOS
+42821,80,85,Ac systolic hrt failure 
+42822,80,85,Chr systolic hrt failure
+42823,80,85,Ac on chr syst hrt fail 
+42830,80,85,Diastolc hrt failure NOS
+42831,80,85,Ac diastolic hrt failure
+42832,80,85,Chr diastolic hrt fail 
+42833,80,85,Ac on chr diast hrt fail
+42840,80,85,Syst/diast hrt fail NOS 
+42841,80,85,Ac syst/diastol hrt fail
+42842,80,85,Chr syst/diastl hrt fail
+42843,80,85,Ac/chr syst/dia hrt fail
+4289 ,80,85,Heart failure NOS 
+4290 ,80,85,Myocarditis NOS 
+4291 ,80,85,Myocardial degeneration 
+4295 ,81,86,Chordae tendinae rupture
+4296 ,81,86,Papillary muscle rupture
+430 ,95,99,Subarachnoid hemorrhage 
+431 ,95,99,Intracerebral hemorrhage
+4320 ,95,99,Nontraum extradural hem 
+4321 ,95,99,Subdural hemorrhage 
+4329 ,95,99,Intracranial hemorr NOS 
+43300,,,Ocl bslr art wo infrct 
+43301,96,100,Ocl bslr art w infrct 
+43310,,,Ocl crtd art wo infrct 
+43311,96,100,Ocl crtd art w infrct 
+43320,,,Ocl vrtb art wo infrct 
+43321,96,100,Ocl vrtb art w infrct 
+43330,,,Ocl mlt bi art wo infrct
+43331,96,100,Ocl mlt bi art w infrct 
+43380,,,Ocl spcf art wo infrct 
+43381,96,100,Ocl spcf art w infrct 
+43390,,,Ocl art NOS wo infrct 
+43391,96,100,Ocl art NOS w infrct 
+43400,,,Crbl thrmbs wo infrct 
+43401,96,100,Crbl thrmbs w infrct 
+43410,,,Crbl emblsm wo infrct 
+43411,96,100,Crbl emblsm w infrct 
+43490,,,Crbl art oc NOS wo infrc
+43491,96,100,Crbl art ocl NOS w infrc
+4350 ,,,Basilar artery syndrome 
+4351 ,,,Vertebral artery syndrom
+4352 ,,,Subclavian steal syndrom
+4353 ,,,Vertbrobaslr artery synd
+4358 ,,,Trans cereb ischemia NEC
+4359 ,,,Trans cereb ischemia NOS
+436 ,96,100,Cva 
+4370 ,,,Cerebral atherosclerosis
+4371 ,,,Ac cerebrovasc insuf NOS
+4372 ,,,Hypertens encephalopathy
+4374 ,,,Cerebral arteritis 
+4375 ,,,Moyamoya disease 
+4376 ,,,Nonpyogen thrombos sinus
+4378 ,,,Cerebrovasc disease NEC 
+4379 ,,,Cerebrovasc disease NOS 
+43820,100,103,Late ef-hemplga side NOS
+43821,100,103,Late ef-hemplga dom side
+43822,100,103,Late ef-hemiplga non-dom
+43830,101,104,Late ef-mplga up lmb NOS
+43831,101,104,Late ef-mplga up lmb dom
+43832,101,104,Lt ef-mplga uplmb nondom
+43840,101,104,Lte ef-mplga low lmb NOS
+43841,101,104,Lte ef-mplga low lmb dom
+43842,101,104,Lt ef-mplga lowlmb nondm
+43850,101,104,Lt ef oth paral side NOS
+43851,101,104,Lt ef oth paral dom side
+43852,101,104,Lt ef oth parals non-dom
+43853,101,104,Lt ef oth parals-bilat 
+4400 ,105,108,Aortic atherosclerosis 
+4401 ,105,108,Renal artery atheroscler
+44020,105,108,Athscl extrm ntv art NOS
+44021,105,108,Ath ext ntv at w claudct
+44022,105,108,Ath ext ntv at w rst pn 
+44023,104,106,Ath ext ntv art ulcrtion
+44024,104,106,Ath ext ntv art gngrene 
+44029,105,108,Athrsc extrm ntv art oth
+44030,105,108,Athscl extrm bps gft NOS
+44031,105,108,Ath ext autologs bps gft
+44032,105,108,Ath ext nonautlg bps gft
+4404 ,105,108,Chr tot occl art extrem 
+44100,104,107,Dsct of aorta unsp site 
+44101,104,107,Dsct of thoracic aorta 
+44102,104,107,Dsct of abdominal aorta 
+44103,104,107,Dsct of thoracoabd aorta
+4411 ,104,107,Ruptur thoracic aneurysm
+4412 ,105,108,Thoracic aortic aneurysm
+4413 ,104,107,Rupt abd aortic aneurysm
+4414 ,105,108,Abdom aortic aneurysm 
+4415 ,104,107,Rupt aortic aneurysm NOS
+4416 ,104,107,Thoracoabd aneurysm rupt
+4417 ,105,108,Thracabd anurysm wo rupt
+4419 ,105,108,Aortic aneurysm NOS 
+4420 ,105,108,Upper extremity aneurysm
+4421 ,105,108,Renal artery aneurysm 
+4422 ,105,108,Iliac artery aneurysm 
+4423 ,105,108,Lower extremity aneurysm
+44281,105,108,Aneurysm of neck 
+44282,105,108,Subclavian aneurysm 
+44283,105,108,Splenic artery aneurysm 
+44284,105,108,Visceral aneurysm NEC 
+44289,105,108,Aneurysm NEC 
+4429 ,105,108,Aneurysm NOS 
+4431 ,105,108,Thromboangiit obliterans
+44321,104,107,Dissect carotid artery 
+44322,104,107,Dissection iliac artery 
+44323,104,107,Dissection renal artery 
+44324,104,107,Dissect vertebral artery
+44329,104,107,Dissection artery NEC 
+44381,105,108,Angiopathy in other dis 
+44382,105,108,Erythromelalgia 
+44389,105,108,Periph vascular dis NEC 
+4439 ,105,108,Periph vascular dis NOS 
+44401,104,107,Saddle embolus abd aorta
+44409,104,107,Ot art emb/thrm abd aort
+4441 ,104,107,Thoracic aortic embolism
+44421,104,107,Upper extremity embolism
+44422,104,107,Lower extremity embolism
+44481,104,107,Iliac artery embolism 
+44489,104,107,Arterial embolism NEC 
+4449 ,104,107,Arterial embolism NOS 
+44501,104,107,"Atheroembolism,upper ext"
+44502,104,107,"Atheroembolism,lower ext"
+44581,104,107,"Atheroembolism, kidney "
+44589,104,107,"Atheroembolism, site NEC"
+4460 ,38,40,Polyarteritis nodosa 
+4461 ,38,40,Mucocutan lymph node syn
+44620,38,40,Hypersensit angiitis NOS
+44621,38,40,Goodpasture's syndrome 
+44629,38,40,Hypersensit angiitis NEC
+4463 ,38,40,Lethal midline granuloma
+4464 ,38,40,Wegener's granulomatosis
+4465 ,38,40,Giant cell arteritis 
+4466 ,38,40,Thrombot microangiopathy
+4467 ,38,40,Takayasu's disease 
+4470 ,105,108,Acq arterioven fistula 
+4471 ,105,108,Stricture of artery 
+4472 ,105,108,Rupture of artery 
+4473 ,105,108,Renal artery hyperplasia
+4474 ,105,108,Celiac art compress syn 
+4475 ,105,108,Necrosis of artery 
+4476 ,105,108,Arteritis NOS 
+44770,105,108,"Aortic ectasia, site NOS"
+44771,105,108,Thoracic aortic ectasia 
+44772,105,108,Abdominal aortic ectasia
+44773,105,108,Thoracoabd aortc ectasia
+4478 ,105,108,Arterial disease NEC 
+4479 ,105,108,Arterial disease NOS 
+4480 ,105,108,Heredit hemorr telangiec
+449 ,104,107,Septic arterial embolism
+45111,105,108,Femoral vein phlebitis 
+45119,105,108,Deep phlebitis-leg NEC 
+45181,105,108,Iliac thrombophlebitis 
+45183,105,108,Phlbts deep vn up extrm 
+4530 ,105,108,Budd-chiari syndrome 
+4532 ,105,108,Oth inf vena cava thromb
+4533 ,105,108,Renal vein thrombosis 
+45340,105,108,Ac DVT/embl low ext NOS 
+45341,105,108,Ac DVT/emb prox low ext 
+45342,105,108,Ac DVT/emb distl low ext
+45350,105,108,Ch DVT/embl low ext NOS 
+45351,105,108,Ch DVT/embl prox low ext
+45352,105,108,Ch DVT/embl dstl low ext
+45372,105,108,Ch DVT/embl up ext 
+45374,105,108,Ch emblsm axillary veins
+45375,105,108,Ch emblsm subclav veins 
+45376,105,108,Ch embl internl jug vein
+45377,105,108,Ch embl thorac vein NEC 
+45382,105,108,Ac DVT/embl up ext 
+45384,105,108,Ac emblsm axillary veins
+45385,105,108,Ac embl subclav veins 
+45386,105,108,Ac embl internl jug vein
+45387,105,108,Ac embl thorac vein NEC 
+4540 ,,107,Leg varicosity w ulcer 
+4542 ,,107,Varicos leg ulcer/inflam
+4560 ,25,27,Esophag varices w bleed 
+4561 ,25,27,Esoph varices w/o bleed 
+45620,25,27,Bleed esoph var oth dis 
+45621,25,27,Esoph varice oth dis NOS
+45911,,107,Postphlebtc synd w ulcer
+45913,,107,Postphl syn w ulc&inflam
+45931,,107,Chr venous hyper w ulcer
+45933,,107,Chr ven hyp w ulc&inflam
+481 ,112,115,Pneumococcal pneumonia 
+4820 ,111,114,K. pneumoniae pneumonia 
+4821 ,111,114,Pseudomonal pneumonia 
+4822 ,112,115,H.influenzae pneumonia 
+48230,112,115,Streptococcal pneumn NOS
+48231,112,115,Pneumonia strptococcus a
+48232,112,115,Pneumonia strptococcus b
+48239,112,115,Pneumonia oth strep 
+48240,111,114,Staphylococcal pneu NOS 
+48241,111,114,Meth sus pneum d/t Staph
+48242,111,114,Meth res pneu d/t Staph 
+48249,111,114,Staph pneumonia NEC 
+48281,111,114,Pneumonia anaerobes 
+48282,111,114,Pneumonia e coli 
+48283,111,114,Pneumo oth grm-neg bact 
+48284,111,114,Legionnaires' disease 
+48289,111,114,Pneumonia oth spcf bact 
+4841 ,5,6,Pneum w cytomeg incl dis
+4846 ,112,6,Pneum in aspergillosis 
+4847 ,112,115,Pneum in oth sys mycoses
+4910 ,108,111,Simple chr bronchitis 
+4911 ,108,111,Mucopurul chr bronchitis
+49120,108,111,Obst chr bronc w/o exac 
+49121,108,111,Obs chr bronc w(ac) exac
+49122,108,111,Obs chr bronc w ac bronc
+4918 ,108,111,Chronic bronchitis NEC 
+4919 ,108,111,Chronic bronchitis NOS 
+4920 ,108,111,Emphysematous bleb 
+4928 ,108,111,Emphysema NEC 
+49300,,,Extrinsic asthma NOS 
+49301,,,Ext asthma w status asth
+49302,,,Ext asthma w(acute) exac
+49310,,,Intrinsic asthma NOS 
+49311,,,Int asthma w status asth
+49312,,,Int asthma w (ac) exac 
+49320,108,111,Chronic obst asthma NOS 
+49321,108,111,Ch ob asthma w stat asth
+49322,108,111,Ch obst asth w (ac) exac
+49381,,,Exercse ind bronchospasm
+49382,,,Cough variant asthma 
+49390,,,Asthma NOS 
+49391,,,Asthma w status asthmat 
+49392,,,Asthma NOS w (ac) exac 
+4940 ,,112,Bronchiectas w/o ac exac
+4941 ,,112,Bronchiectasis w ac exac
+4950 ,,112,Farmers' lung 
+4951 ,,112,Bagassosis 
+4952 ,,112,Bird-fanciers' lung 
+4953 ,,112,Suberosis 
+4954 ,,112,Malt workers' lung 
+4955 ,,112,Mushroom workers' lung 
+4956 ,,112,Mapl bark-stripprs' lung
+4957 ,,112,"""ventilation"" pneumonit "
+4958 ,,112,Allerg alveol/pneum NEC 
+4959 ,,112,Allerg alveol/pneum NOS 
+496 ,108,111,Chr airway obstruct NEC 
+500 ,,112,Coal workers' pneumocon 
+501 ,,112,Asbestosis 
+502 ,,112,Silica pneumocon NEC 
+503 ,,112,Inorg dust pneumocon NEC
+504 ,,112,Dust pneumonopathy NEC 
+505 ,,112,Pneumoconiosis NOS 
+5060 ,,112,Fum/vapor bronc/pneumon 
+5061 ,,112,Fum/vapor ac pulm edema 
+5062 ,,112,Fum/vapor up resp inflam
+5063 ,,112,Fum/vap ac resp cond NEC
+5064 ,,112,Fum/vapor chr resp cond 
+5069 ,,112,Fum/vapor resp cond NOS 
+5070 ,111,114,Food/vomit pneumonitis 
+5071 ,111,114,Oil/essence pneumonitis 
+5078 ,111,114,Solid/liq pneumonit NEC 
+5080 ,,112,Ac pul manif d/t radiat 
+5081 ,,112,Chr pul manif d/t radiat
+5082 ,,112,Resp cond dt smoke inhal
+5088 ,,112,Resp cond: ext agent NEC
+5089 ,,112,Resp cond: ext agent NOS
+5100 ,112,115,Empyema with fistula 
+5109 ,112,115,Empyema w/o fistula 
+5130 ,112,115,Abscess of lung 
+5131 ,112,115,Abscess of mediastinum 
+515 ,,112,Postinflam pulm fibrosis
+5160 ,,112,Pul alveolar proteinosis
+5161 ,,112,Idio pulm hemosiderosis 
+5162 ,,112,Pulm alveolar microlith 
+51630,,112,Idiopath inters pneu NOS
+51631,,112,Idiopath pulmon fibrosis
+51632,,112,Idio non-spec inter pneu
+51633,,112,Acute interstitial pneum
+51634,,112,Resp brncio interst lung
+51635,,112,Idiopth lym interst pneu
+51636,,112,Cryptogenic organiz pneu
+51637,,112,Desquamatv interst pneu 
+5164 ,,112,Lymphangioleiomyomatosis
+5165 ,,112,Adlt pul Langs cell hist
+51661,,112,Neuroend cell hyprpl inf
+51662,,112,Pulm interstitl glycogen
+51663,,112,Surfactant mutation lung
+51664,,112,Alv cap dysp w vn misaln
+51669,,112,Oth intrst lung dis chld
+5168 ,,112,Alveol pneumonopathy NEC
+5169 ,,112,Alveol pneumonopathy NOS
+5171 ,,112,Rheumatic pneumonia 
+5172 ,,112,Syst sclerosis lung dis 
+5173 ,44,46,Acute chest syndrome 
+5178 ,,112,Lung involv in oth dis 
+5181 ,108,111,Interstitial emphysema 
+5182 ,108,111,Compensatory emphysema 
+5183 ,,112,Pulmonary eosinophilia 
+5184 ,79,84,Acute lung edema NOS 
+51851,79,84,Ac resp flr fol trma/srg
+51852,79,84,Ot pul insuf fol trm/srg
+51853,79,84,Ac/chr rsp flr fol tr/sg
+5186 ,,112,Alrgc brncpul asprglosis
+51881,79,84,Acute respiratry failure
+51882,79,84,Other pulmonary insuff 
+51883,79,84,Chronic respiratory fail
+51884,79,84,Acute & chronc resp fail
+51900,77,82,Tracheostomy comp NOS 
+51901,77,82,Tracheostomy infection 
+51902,77,82,Tracheostomy - mech comp
+51909,77,82,Tracheostomy comp NEC 
+5300 ,,,Achalasia & cardiospasm 
+53010,,,"Esophagitis, unspecified"
+53011,,,Reflux esophagitis 
+53012,,,Acute esophagitis 
+53013,,,Eosinophilic esophagitis
+53019,,,Other esophagitis 
+5303 ,,,Esophageal stricture 
+5304 ,,,Perforation of esophagus
+5305 ,,,Dyskinesia of esophagus 
+5306 ,,,Acq esophag diverticulum
+53081,,,Esophageal reflux 
+53083,,,Esophageal leukoplakia 
+53084,,,Tracheoesophageal fstula
+53085,,,Barrett's esophagus 
+53086,176,188,Esophagostomy infection 
+53087,176,188,Mech comp esophagostomy 
+53089,,,Other dsrders esophagus 
+5309 ,,,Esophageal disorder NOS 
+53110,31,33,Ac stomach ulcer w perf 
+53111,31,33,Ac stom ulc w perf-obst 
+53120,31,33,Ac stomac ulc w hem/perf
+53121,31,33,Ac stom ulc hem/perf-obs
+53150,31,33,Chr stomach ulcer w perf
+53151,31,33,Chr stom ulc w perf-obst
+53160,31,33,Chr stomach ulc hem/perf
+53161,31,33,Chr stom ulc hem/perf-ob
+53210,31,33,Ac duodenal ulcer w perf
+53211,31,33,Ac duoden ulc perf-obstr
+53220,31,33,Ac duoden ulc w hem/perf
+53221,31,33,Ac duod ulc hem/perf-obs
+53250,31,33,Chr duoden ulcer w perf 
+53251,31,33,Chr duoden ulc perf-obst
+53260,31,33,Chr duoden ulc hem/perf 
+53261,31,33,Chr duod ulc hem/perf-ob
+53310,31,33,Ac peptic ulcer w perfor
+53311,31,33,Ac peptic ulc w perf-obs
+53320,31,33,Ac peptic ulc w hem/perf
+53321,31,33,Ac pept ulc hem/perf-obs
+53350,31,33,Chr peptic ulcer w perf 
+53351,31,33,Chr peptic ulc perf-obst
+53360,31,33,Chr pept ulc w hem/perf 
+53361,31,33,Chr pept ulc hem/perf-ob
+53410,31,33,Ac marginal ulcer w perf
+53411,31,33,Ac margin ulc w perf-obs
+53420,31,33,Ac margin ulc w hem/perf
+53421,31,33,Ac marg ulc hem/perf-obs
+53450,31,33,Chr marginal ulc w perf 
+53451,31,33,Chr margin ulc perf-obst
+53460,31,33,Chr margin ulc hem/perf 
+53461,31,33,Chr marg ulc hem/perf-ob
+53640,176,188,Gastrostomy comp NOS 
+53641,176,188,Gastrostomy infection 
+53642,176,188,Gastrostomy comp - mech 
+53649,176,188,Gastrostomy comp NEC 
+5550 ,33,35,"Reg enteritis, sm intest"
+5551 ,33,35,"Reg enteritis, lg intest"
+5552 ,33,35,Reg enterit sm/lg intest
+5559 ,33,35,Regional enteritis NOS 
+5560 ,33,35,Ulcerative enterocolitis
+5561 ,33,35,Ulcerative ileocolitis 
+5562 ,33,35,Ulcerative proctitis 
+5563 ,33,35,Ulcertve prctosigmoidtis
+5564 ,33,35,Pseudopolyposis colon 
+5565 ,33,35,Lftsded ulcertve colitis
+5566 ,33,35,Univrsl ulcertve colitis
+5568 ,33,35,Other ulcerative colitis
+5569 ,33,35,Ulceratve colitis unspcf
+5570 ,104,107,Ac vasc insuff intestine
+5571 ,105,108,Chr vasc insuff intest 
+5579 ,105,108,Vasc insuff intest NOS 
+5600 ,31,33,Intussusception 
+5601 ,31,33,Paralytic ileus 
+5602 ,31,33,Volvulus of intestine 
+56030,31,33,Impaction intestine NOS 
+56031,31,33,Gallstone ileus 
+56032,31,33,Fecal impaction 
+56039,31,33,Impaction intestine NEC 
+56081,31,33,Intestinal adhes w obstr
+56089,31,33,Intestinal obstruct NEC 
+5609 ,31,33,Intestinal obstruct NOS 
+5670 ,31,33,Peritonitis in infec dis
+5671 ,31,33,Pneumococcal peritonitis
+56721,31,33,Peritonitis (acute) gen 
+56722,31,33,Peritoneal abscess 
+56723,31,33,Spontan bact peritonitis
+56729,31,33,Suppurat peritonitis NEC
+56731,31,33,Psoas muscle abscess 
+56738,31,33,Retroperiton abscess NEC
+56739,31,33,Retroperiton infect NEC 
+56781,31,33,Choleperitonitis 
+56782,31,33,Sclerosing mesenteritis 
+56789,31,33,Peritonitis NEC 
+5679 ,31,33,Peritonitis NOS 
+56960,176,188,Colstomy/enter comp NOS 
+56961,176,188,Colosty/enterost infectn
+56962,176,188,Colosty/enter comp-mech 
+56969,176,188,Colstmy/enteros comp NEC
+56971,176,188,Pouchitis 
+56979,176,188,Comp intest pouch NEC 
+56983,31,33,Perforation of intestine
+5712 ,26,28,Alcohol cirrhosis liver 
+5713 ,26,28,Alcohol liver damage NOS
+57140,27,29,Chronic hepatitis NOS 
+57141,27,29,Chr persistent hepatitis
+57142,27,29,Autoimmune hepatitis 
+57149,27,29,Chronic hepatitis NEC 
+5715 ,26,28,Cirrhosis of liver NOS 
+5716 ,26,28,Biliary cirrhosis 
+5722 ,25,27,Hepatic encephalopathy 
+5723 ,25,27,Portal hypertension 
+5724 ,25,27,Hepatorenal syndrome 
+5728 ,25,27,"Oth sequela, chr liv dis"
+5735 ,25,27,Hepatopulmonary syndrome
+5770 ,32,,Acute pancreatitis 
+5771 ,32,34,Chronic pancreatitis 
+5772 ,32,,Pancreat cyst/pseudocyst
+5778 ,32,,Pancreatic disease NEC 
+5779 ,32,,Pancreatic disease NOS 
+5790 ,32,,Celiac disease 
+5791 ,32,,Tropical sprue 
+5792 ,32,,Blind loop syndrome 
+5793 ,32,,Intest postop nonabsorb 
+5794 ,32,,Pancreatic steatorrhea 
+5798 ,32,,Intest malabsorption NEC
+5799 ,32,,Intest malabsorption NOS
+5800 ,132,141,Ac proliferat nephritis 
+5804 ,132,141,Ac rapidly progr nephrit
+58081,132,141,Ac nephritis in oth dis 
+58089,132,141,Acute nephritis NEC 
+5809 ,132,141,Acute nephritis NOS 
+5810 ,132,141,"Nephrotic syn, prolifer "
+5811 ,132,141,Epimembranous nephritis 
+5812 ,132,141,Membranoprolif nephrosis
+5813 ,132,141,Minimal change nephrosis
+58181,132,141,Nephrotic syn in oth dis
+58189,132,141,Nephrotic syndrome NEC 
+5819 ,132,141,Nephrotic syndrome NOS 
+5820 ,132,141,Chr proliferat nephritis
+5821 ,132,141,Chr membranous nephritis
+5822 ,132,141,Chr membranoprolif nephr
+5824 ,132,141,Chr rapid progr nephrit 
+58281,132,141,Chr nephritis in oth dis
+58289,132,141,Chronic nephritis NEC 
+5829 ,132,141,Chronic nephritis NOS 
+5830 ,132,141,Proliferat nephritis NOS
+5831 ,132,141,Membranous nephritis NOS
+5832 ,132,141,Membranoprolif nephr NOS
+5834 ,132,141,Rapidly prog nephrit NOS
+5836 ,132,141,Renal cort necrosis NOS 
+5837 ,132,141,Nephr NOS/medull necros 
+58381,132,141,Nephritis NOS in oth dis
+58389,132,141,Nephritis NEC 
+5839 ,132,141,Nephritis NOS 
+5845 ,131,135,"Ac kidny fail, tubr necr"
+5846 ,131,135,"Ac kidny fail, cort necr"
+5847 ,131,135,"Ac kidny fail, medu necr"
+5848 ,131,135,Acute kidney failure NEC
+5849 ,131,135,Acute kidney failure NOS
+5851 ,131,139,Chro kidney dis stage I 
+5852 ,131,139,Chro kidney dis stage II
+5853 ,131,138,Chr kidney dis stage III
+5854 ,131,137,Chr kidney dis stage IV 
+5855 ,131,136,Chron kidney dis stage V
+5856 ,131,136,End stage renal disease 
+5859 ,131,139,Chronic kidney dis NOS 
+586 ,131,140,Renal failure NOS 
+5880 ,,,Renal osteodystrophy 
+5881 ,,23,Nephrogen diabetes insip
+58881,,23,Sec hyperparathyrd-renal
+59381,104,107,Renal vascular disorder 
+59681,164,176,Infection of cystostomy 
+59682,164,176,Mech comp of cystostomy 
+59683,164,176,Other comp of cystostomy
+62931,164,176,Eros imp vag mesh in tis
+6944 ,,,Pemphigus 
+69513,,162,Stevens-Johnson syndrome
+69514,,162,Stevens-Johnson-TEN syn 
+69515,,162,Toxic epidrml necrolysis
+6960 ,,40,Psoriatic arthropathy 
+6961 ,,,Other psoriasis 
+6962 ,,,Parapsoriasis 
+70700,148,160,"Pressure ulcer, site NOS"
+70701,148,160,"Pressure ulcer, elbow "
+70702,148,160,"Pressure ulcer, upr back"
+70703,148,160,"Pressure ulcer, low back"
+70704,148,160,"Pressure ulcer, hip "
+70705,148,160,"Pressure ulcer, buttock "
+70706,148,160,"Pressure ulcer, ankle "
+70707,148,160,"Pressure ulcer, heel "
+70709,148,160,"Pressure ulcer, site NEC"
+70710,149,161,Ulcer of lower limb NOS 
+70711,149,161,Ulcer of thigh 
+70712,149,161,Ulcer of calf 
+70713,149,161,Ulcer of ankle 
+70714,149,161,Ulcer of heel & midfoot 
+70715,149,161,Ulcer other part of foot
+70719,149,161,Ulcer oth part low limb 
+70720,148,160,"Pressure ulcer,stage NOS"
+70721,148,160,"Pressure ulcer, stage I "
+70722,148,159,"Pressure ulcer, stage II"
+70723,148,158,"Pressure ulcer,stage III"
+70724,148,157,"Pressure ulcer, stage IV"
+70725,148,158,"Pressure ulcer,unstagebl"
+7078 ,149,161,Chronic skin ulcer NEC 
+7079 ,149,161,Chronic skin ulcer NOS 
+7100 ,38,40,Syst lupus erythematosus
+7101 ,38,40,Systemic sclerosis 
+7102 ,38,40,Sicca syndrome 
+7103 ,38,40,Dermatomyositis 
+7104 ,38,40,Polymyositis 
+7105 ,38,40,Eosinophilia myalgia snd
+7108 ,38,40,Diff connect tis dis NEC
+7109 ,38,40,Diff connect tis dis NOS
+71100,37,39,Pyogen arthritis-unspec 
+71101,37,39,Pyogen arthritis-shlder 
+71102,37,39,Pyogen arthritis-up/arm 
+71103,37,39,Pyogen arthritis-forearm
+71104,37,39,Pyogen arthritis-hand 
+71105,37,39,Pyogen arthritis-pelvis 
+71106,37,39,Pyogen arthritis-l/leg 
+71107,37,39,Pyogen arthritis-ankle 
+71108,37,39,Pyogen arthritis NEC 
+71109,37,39,Pyogen arthritis-mult 
+71110,37,40,Reiter arthritis-unspec 
+71111,37,40,Reiter arthritis-shlder 
+71112,37,40,Reiter arthritis-up/arm 
+71113,37,40,Reiter arthritis-forearm
+71114,37,40,Reiter arthritis-hand 
+71115,37,40,Reiter arthritis-pelvis 
+71116,37,40,Reiter arthritis-l/leg 
+71117,37,40,Reiter arthritis-ankle 
+71118,37,40,Reiter arthritis NEC 
+71119,37,40,Reiter arthritis-mult 
+71120,37,40,Behcet arthritis-unspec 
+71121,37,40,Behcet arthritis-shlder 
+71122,37,40,Behcet arthritis-up/arm 
+71123,37,40,Behcet arthritis-forearm
+71124,37,40,Behcet arthritis-hand 
+71125,37,40,Behcet arthritis-pelvis 
+71126,37,40,Behcet arthritis-l/leg 
+71127,37,40,Behcet arthritis-ankle 
+71128,37,40,Behcet arthritis NEC 
+71129,37,40,Behcet arthritis-mult 
+71130,37,39,Dysenter arthrit-unspec 
+71131,37,39,Dysenter arthrit-shlder 
+71132,37,39,Dysenter arthrit-up/arm 
+71133,37,39,Dysenter arthrit-forearm
+71134,37,39,Dysenter arthrit-hand 
+71135,37,39,Dysenter arthrit-pelvis 
+71136,37,39,Dysenter arthrit-l/leg 
+71137,37,39,Dysenter arthrit-ankle 
+71138,37,39,Dysenter arthrit NEC 
+71139,37,39,Dysenter arthrit-mult 
+71140,37,39,Bact arthritis-unspec 
+71141,37,39,Bact arthritis-shlder 
+71142,37,39,Bact arthritis-up/arm 
+71143,37,39,Bact arthritis-forearm 
+71144,37,39,Bact arthritis-hand 
+71145,37,39,Bact arthritis-pelvis 
+71146,37,39,Bact arthritis-l/leg 
+71147,37,39,Bact arthritis-ankle 
+71148,37,39,Bact arthritis NEC 
+71149,37,39,Bact arthritis-mult 
+71150,37,39,Viral arthritis-unspec 
+71151,37,39,Viral arthritis-shlder 
+71152,37,39,Viral arthritis-up/arm 
+71153,37,39,Viral arthritis-forearm 
+71154,37,39,Viral arthritis-hand 
+71155,37,39,Viral arthritis-pelvis 
+71156,37,39,Viral arthritis-l/leg 
+71157,37,39,Viral arthritis-ankle 
+71158,37,39,Viral arthritis NEC 
+71159,37,39,Viral arthritis-mult 
+71160,37,39,Mycotic arthritis-unspec
+71161,37,39,Mycotic arthritis-shlder
+71162,37,39,Mycotic arthritis-up/arm
+71163,37,39,Mycotic arthrit-forearm 
+71164,37,39,Mycotic arthritis-hand 
+71165,37,39,Mycotic arthritis-pelvis
+71166,37,39,Mycotic arthritis-l/leg 
+71167,37,39,Mycotic arthritis-ankle 
+71168,37,39,Mycotic arthritis NEC 
+71169,37,39,Mycotic arthritis-mult 
+71170,37,39,Helminth arthrit-unspec 
+71171,37,39,Helminth arthrit-shlder 
+71172,37,39,Helminth arthrit-up/arm 
+71173,37,39,Helminth arthrit-forearm
+71174,37,39,Helminth arthrit-hand 
+71175,37,39,Helminth arthrit-pelvis 
+71176,37,39,Helminth arthrit-l/leg 
+71177,37,39,Helminth arthrit-ankle 
+71178,37,39,Helminth arthrit NEC 
+71179,37,39,Helminth arthrit-mult 
+71180,37,39,Inf arthritis NEC-unspec
+71181,37,39,Inf arthritis NEC-shlder
+71182,37,39,Inf arthritis NEC-up/arm
+71183,37,39,Inf arthrit NEC-forearm 
+71184,37,39,Inf arthritis NEC-hand 
+71185,37,39,Inf arthritis NEC-pelvis
+71186,37,39,Inf arthritis NEC-l/leg 
+71187,37,39,Inf arthritis NEC-ankle 
+71188,37,39,Inf arthrit NEC-oth site
+71189,37,39,Inf arthritis NEC-mult 
+71190,37,39,Inf arthritis NOS-unspec
+71191,37,39,Inf arthritis NOS-shlder
+71192,37,39,Inf arthritis NOS-up/arm
+71193,37,39,Inf arthrit NOS-forearm 
+71194,37,39,Inf arthrit NOS-hand 
+71195,37,39,Inf arthrit NOS-pelvis 
+71196,37,39,Inf arthrit NOS-l/leg 
+71197,37,39,Inf arthrit NOS-ankle 
+71198,37,39,Inf arthrit NOS-oth site
+71199,37,39,Inf arthritis NOS-mult 
+7140 ,38,40,Rheumatoid arthritis 
+7141 ,38,40,Felty's syndrome 
+7142 ,38,40,Syst rheum arthritis NEC
+71430,38,40,Juv rheum arthritis NOS 
+71431,38,40,Polyart juv rheum arthr 
+71432,38,40,Pauciart juv rheum arthr
+71433,38,40,Monoart juv rheum arthr 
+7144 ,38,40,Chr postrheum arthritis 
+71481,38,40,Rheumatoid lung 
+71489,38,40,Inflamm polyarthrop NEC 
+7149 ,38,40,Inflamm polyarthrop NOS 
+7200 ,38,40,Ankylosing spondylitis 
+7201 ,38,40,Spinal enthesopathy 
+7202 ,38,40,Sacroiliitis NEC 
+72081,38,40,Spondylopathy in oth dis
+72089,38,40,Inflam spondylopathy NEC
+7209 ,38,40,Inflam spondylopathy NOS
+725 ,38,40,Polymyalgia rheumatica 
+72886,37,39,Necrotizing fasciitis 
+73000,37,39,Ac osteomyelitis-unspec 
+73001,37,39,Ac osteomyelitis-shlder 
+73002,37,39,Ac osteomyelitis-up/arm 
+73003,37,39,Ac osteomyelitis-forearm
+73004,37,39,Ac osteomyelitis-hand 
+73005,37,39,Ac osteomyelitis-pelvis 
+73006,37,39,Ac osteomyelitis-l/leg 
+73007,37,39,Ac osteomyelitis-ankle 
+73008,37,39,Ac osteomyelitis NEC 
+73009,37,39,Ac osteomyelitis-mult 
+73010,37,39,Chr osteomyelitis-unsp 
+73011,37,39,Chr osteomyelit-shlder 
+73012,37,39,Chr osteomyelit-up/arm 
+73013,37,39,Chr osteomyelit-forearm 
+73014,37,39,Chr osteomyelit-hand 
+73015,37,39,Chr osteomyelit-pelvis 
+73016,37,39,Chr osteomyelit-l/leg 
+73017,37,39,Chr osteomyelit-ankle 
+73018,37,39,Chr osteomyelit NEC 
+73019,37,39,Chr osteomyelit-mult 
+73020,37,39,Osteomyelitis NOS-unspec
+73021,37,39,Osteomyelitis NOS-shlder
+73022,37,39,Osteomyelitis NOS-up/arm
+73023,37,39,Osteomyelit NOS-forearm 
+73024,37,39,Osteomyelitis NOS-hand 
+73025,37,39,Osteomyelitis NOS-pelvis
+73026,37,39,Osteomyelitis NOS-l/leg 
+73027,37,39,Osteomyelitis NOS-ankle 
+73028,37,39,Osteomyelit NOS-oth site
+73029,37,39,Osteomyelitis NOS-mult 
+73030,37,39,Periostitis-unspec 
+73031,37,39,Periostitis-shlder 
+73032,37,39,Periostitis-up/arm 
+73033,37,39,Periostitis-forearm 
+73034,37,39,Periostitis-hand 
+73035,37,39,Periostitis-pelvis 
+73036,37,39,Periostitis-l/leg 
+73037,37,39,Periostitis-ankle 
+73038,37,39,Periostitis NEC 
+73039,37,39,Periostitis-mult 
+73070,37,39,Polio osteopathy-unspec 
+73071,37,39,Polio osteopathy-shlder 
+73072,37,39,Polio osteopathy-up/arm 
+73073,37,39,Polio osteopathy-forearm
+73074,37,39,Polio osteopathy-hand 
+73075,37,39,Polio osteopathy-pelvis 
+73076,37,39,Polio osteopathy-l/leg 
+73077,37,39,Polio osteopathy-ankle 
+73078,37,39,Polio osteopathy NEC 
+73079,37,39,Polio osteopathy-mult 
+73080,37,39,Bone infect NEC-unspec 
+73081,37,39,Bone infect NEC-shlder 
+73082,37,39,Bone infect NEC-up/arm 
+73083,37,39,Bone infect NEC-forearm 
+73084,37,39,Bone infect NEC-hand 
+73085,37,39,Bone infect NEC-pelvis 
+73086,37,39,Bone infect NEC-l/leg 
+73087,37,39,Bone infect NEC-ankle 
+73088,37,39,Bone infect NEC-oth site
+73089,37,39,Bone infect NEC-mult 
+73090,37,39,Bone infec NOS-unsp site
+73091,37,39,Bone infect NOS-shlder 
+73092,37,39,Bone infect NOS-up/arm 
+73093,37,39,Bone infect NOS-forearm 
+73094,37,39,Bone infect NOS-hand 
+73095,37,39,Bone infect NOS-pelvis 
+73096,37,39,Bone infect NOS-l/leg 
+73097,37,39,Bone infect NOS-ankle 
+73098,37,39,Bone infect NOS-oth site
+73099,37,39,Bone infect NOS-mult 
+73300,,,Osteoporosis NOS 
+73301,,,Senile osteoporosis 
+73302,,,Idiopathic osteoporosis 
+73303,,,Disuse osteoporosis 
+73309,,,Osteoporosis NEC 
+73310,,,Path fx unspecified site
+73311,,,Path fx humerus 
+73312,,,Path fx dstl radius ulna
+73313,157,169,Path fx vertebrae 
+73314,158,170,Path fx neck of femur 
+73315,158,170,Path fx oth spcf prt fmr
+73316,,,Path fx tibia fibula 
+73319,,,Path fx oth specif site 
+73340,37,39,Asept necrosis bone NOS 
+73341,37,39,Aseptic necrosis humerus
+73342,37,39,Aseptic necrosis femur 
+73343,37,39,Asept necro femur condyl
+73344,37,39,Aseptic necrosis talus 
+73345,37,39,Aseptic necrosis of jaw 
+73349,37,39,Asept necrosis bone NEC 
+7400 ,69,72,Anencephalus 
+7401 ,69,72,Craniorachischisis 
+7402 ,69,72,Iniencephaly 
+74100,69,72,Spin bif w hydroceph NOS
+74101,69,72,Spin bif w hydrceph-cerv
+74102,69,72,Spin bif w hydrceph-dors
+74103,69,72,Spin bif w hydrceph-lumb
+74190,69,72,Spina bifida 
+74191,69,72,Spina bifida-cerv 
+74192,69,72,Spina bifida-dorsal 
+74193,69,72,Spina bifida-lumbar 
+7420 ,69,72,Encephalocele 
+7421 ,69,72,Microcephalus 
+7422 ,69,72,"Reduction deform, brain "
+7423 ,69,72,Congenital hydrocephalus
+7424 ,69,72,Brain anomaly NEC 
+74251,69,72,Diastematomyelia 
+74253,69,72,Hydromyelia 
+74259,69,72,Spinal cord anomaly NEC 
+7428 ,69,72,Nervous system anom NEC 
+7429 ,69,72,Nervous system anom NOS 
+74685,,,Coronary artery anomaly 
+75314,131,139,Polycyst kid-autosom rec
+75683,,,Ehlers-danlos syndrome 
+7581 ,,,Patau's syndrome 
+7582 ,,,Edwards' syndrome 
+75831,,,Cri-du-chat syndrome 
+75832,,,Velo-cardio-facial synd 
+75833,,,Microdeletions NEC 
+75839,,,Autosomal deletions NEC 
+7585 ,,,Autosomal anomalies NEC 
+7595 ,10,12,Tuberous sclerosis 
+7596 ,10,12,Hamartoses NEC 
+75981,,,Prader-willi syndrome 
+75982,,,Marfan syndrome 
+75983,,,Fragile x syndrome 
+77181,2,2,NB septicemia [sepsis] 
+78001,75,80,Coma 
+78003,75,80,Persistent vegtv state 
+78031,74,79,Febrile convulsions NOS 
+78032,74,79,Complx febrile convulsns
+78033,74,79,Post traumatic seizures 
+78039,74,79,Convulsions NEC 
+78072,67,70,Functional quadriplegia 
+7854 ,104,106,Gangrene 
+78550,79,84,Shock NOS 
+78551,79,84,Cardiogenic shock 
+78552,2,2,Septic shock 
+78559,2,2,Shock w/o trauma NEC 
+7980 ,79,84,Sudden infant death synd
+7981 ,79,84,Instantaneous death 
+7982 ,79,84,Death within 24 hr sympt
+7989 ,79,84,Unattended death 
+79901,79,,Asphyxia 
+79902,79,,Hypoxemia 
+7991 ,78,83,Respiratory arrest 
+7994 ,21,21,Cachexia 
+80000,155,167,Closed skull vault fx 
+80001,155,167,Cl skull vlt fx w/o coma
+80002,155,167,Cl skull vlt fx-brf coma
+80003,154,166,Cl skull vlt fx-mod coma
+80004,154,166,Cl skl vlt fx-proln coma
+80005,154,166,Cl skul vlt fx-deep coma
+80006,155,167,Cl skull vlt fx-coma NOS
+80009,155,167,Cl skl vlt fx-concus NOS
+80010,155,167,Cl skl vlt fx/cerebr lac
+80011,155,167,Cl skull vlt fx w/o coma
+80012,155,167,Cl skull vlt fx-brf coma
+80013,154,166,Cl skull vlt fx-mod coma
+80014,154,166,Cl skl vlt fx-proln coma
+80015,154,166,Cl skul vlt fx-deep coma
+80016,155,167,Cl skull vlt fx-coma NOS
+80019,155,167,Cl skl vlt fx-concus NOS
+80020,155,167,Cl skl vlt fx/mening hem
+80021,155,167,Cl skull vlt fx w/o coma
+80022,155,167,Cl skull vlt fx-brf coma
+80023,154,166,Cl skull vlt fx-mod coma
+80024,154,166,Cl skl vlt fx-proln coma
+80025,154,166,Cl skul vlt fx-deep coma
+80026,155,167,Cl skull vlt fx-coma NOS
+80029,155,167,Cl skl vlt fx-concus NOS
+80030,155,167,Cl skull vlt fx/hem NEC 
+80031,155,167,Cl skull vlt fx w/o coma
+80032,155,167,Cl skull vlt fx-brf coma
+80033,154,166,Cl skull vlt fx-mod coma
+80034,154,166,Cl skl vlt fx-proln coma
+80035,154,166,Cl skul vlt fx-deep coma
+80036,155,167,Cl skull vlt fx-coma NOS
+80039,155,167,Cl skl vlt fx-concus NOS
+80040,155,167,Cl skl vlt fx/br inj NEC
+80041,155,167,Cl skull vlt fx w/o coma
+80042,155,167,Cl skull vlt fx-brf coma
+80043,154,166,Cl skull vlt fx-mod coma
+80044,154,166,Cl skl vlt fx-proln coma
+80045,154,166,Cl skul vlt fx-deep coma
+80046,155,167,Cl skull vlt fx-coma NOS
+80049,155,167,Cl skl vlt fx-concus NOS
+80050,155,167,Opn skull vault fracture
+80051,155,167,Opn skul vlt fx w/o coma
+80052,155,167,Opn skul vlt fx-brf coma
+80053,154,166,Opn skul vlt fx-mod coma
+80054,154,166,Opn skl vlt fx-proln com
+80055,154,166,Opn skl vlt fx-deep coma
+80056,155,167,Opn skul vlt fx-coma NOS
+80059,155,167,Op skl vlt fx-concus NOS
+80060,155,167,Opn skl vlt fx/cereb lac
+80061,155,167,Opn skul vlt fx w/o coma
+80062,155,167,Opn skul vlt fx-brf coma
+80063,154,166,Opn skul vlt fx-mod coma
+80064,154,166,Opn skl vlt fx-proln com
+80065,154,166,Opn skl vlt fx-deep coma
+80066,155,167,Opn skul vlt fx-coma NOS
+80069,155,167,Op skl vlt fx-concus NOS
+80070,155,167,Opn skl vlt fx/menin hem
+80071,155,167,Opn skul vlt fx w/o coma
+80072,155,167,Opn skul vlt fx-brf coma
+80073,154,166,Opn skul vlt fx-mod coma
+80074,154,166,Opn skl vlt fx-proln com
+80075,154,166,Opn skl vlt fx-deep coma
+80076,155,167,Opn skul vlt fx-coma NOS
+80079,155,167,Op skl vlt fx-concus NOS
+80080,155,167,Opn skull vlt fx/hem NEC
+80081,155,167,Opn skul vlt fx w/o coma
+80082,155,167,Opn skul vlt fx-brf coma
+80083,154,166,Opn skul vlt fx-mod coma
+80084,154,166,Opn skl vlt fx-proln com
+80085,154,166,Opn skl vlt fx-deep coma
+80086,155,167,Opn skul vlt fx-coma NOS
+80089,155,167,Op skl vlt fx-concus NOS
+80090,155,167,Op skl vlt fx/br inj NEC
+80091,155,167,Opn skul vlt fx w/o coma
+80092,155,167,Opn skul vlt fx-brf coma
+80093,154,166,Opn skul vlt fx-mod coma
+80094,154,166,Opn skl vlt fx-proln com
+80095,154,166,Op skul vlt fx-deep coma
+80096,155,167,Opn skul vlt fx-coma NOS
+80099,155,167,Op skl vlt fx-concus NOS
+80100,155,167,Clos skull base fracture
+80101,155,167,Cl skul base fx w/o coma
+80102,155,167,Cl skul base fx-brf coma
+80103,154,166,Cl skul base fx-mod coma
+80104,154,166,Cl skl base fx-prol coma
+80105,154,166,Cl skl base fx-deep coma
+80106,155,167,Cl skul base fx-coma NOS
+80109,155,167,Cl skull base fx-concuss
+80110,155,167,Cl skl base fx/cereb lac
+80111,155,167,Cl skul base fx w/o coma
+80112,155,167,Cl skul base fx-brf coma
+80113,154,166,Cl skul base fx-mod coma
+80114,154,166,Cl skl base fx-prol coma
+80115,154,166,Cl skl base fx-deep coma
+80116,155,167,Cl skul base fx-coma NOS
+80119,155,167,Cl skull base fx-concuss
+80120,155,167,Cl skl base fx/menin hem
+80121,155,167,Cl skul base fx w/o coma
+80122,155,167,Cl skul base fx/brf coma
+80123,154,166,Cl skul base fx-mod coma
+80124,154,166,Cl skl base fx-prol coma
+80125,154,166,Cl skl base fx-deep coma
+80126,155,167,Cl skul base fx-coma NOS
+80129,155,167,Cl skull base fx-concuss
+80130,155,167,Cl skull base fx/hem NEC
+80131,155,167,Cl skul base fx w/o coma
+80132,155,167,Cl skul base fx-brf coma
+80133,154,166,Cl skul base fx-mod coma
+80134,154,166,Cl skl base fx-prol coma
+80135,154,166,Cl skl base fx-deep coma
+80136,155,167,Cl skul base fx-coma NOS
+80139,155,167,Cl skull base fx-concuss
+80140,155,167,Cl sk base fx/br inj NEC
+80141,155,167,Cl skul base fx w/o coma
+80142,155,167,Cl skul base fx-brf coma
+80143,154,166,Cl skul base fx-mod coma
+80144,154,166,Cl skl base fx-prol coma
+80145,154,166,Cl skl base fx-deep coma
+80146,155,167,Cl skul base fx-coma NOS
+80149,155,167,Cl skull base fx-concuss
+80150,155,167,Open skull base fracture
+80151,155,167,Opn skl base fx w/o coma
+80152,155,167,Opn skl base fx-brf coma
+80153,154,166,Opn skl base fx-mod coma
+80154,154,166,Op skl base fx-prol coma
+80155,154,166,Op skl base fx-deep coma
+80156,155,167,Opn skl base fx-coma NOS
+80159,155,167,Opn skul base fx-concuss
+80160,155,167,Op skl base fx/cereb lac
+80161,155,167,Opn skl base fx w/o coma
+80162,155,167,Opn skl base fx-brf coma
+80163,154,166,Opn skl base fx-mod coma
+80164,154,166,Op skl base fx-prol coma
+80165,154,166,Op skl base fx-deep coma
+80166,155,167,Opn skl base fx-coma NOS
+80169,155,167,Opn skul base fx-concuss
+80170,155,167,Op skl base fx/menin hem
+80171,155,167,Opn skl base fx w/o coma
+80172,155,167,Opn skl base fx-brf coma
+80173,154,166,Opn skl base fx-mod coma
+80174,154,166,Op skl base fx-prol coma
+80175,154,166,Op skl base fx-deep coma
+80176,155,167,Opn skl base fx-coma NOS
+80179,155,167,Opn skul base fx-concuss
+80180,155,167,Opn skul base fx/hem NEC
+80181,155,167,Opn skl base fx w/o coma
+80182,155,167,Opn skl base fx-brf coma
+80183,154,166,Opn skl base fx-mod coma
+80184,154,166,Op skl base fx-prol coma
+80185,154,166,Op skl base fx-deep coma
+80186,155,167,Opn skl base fx-coma NOS
+80189,155,167,Opn skul base fx-concuss
+80190,155,167,Op sk base fx/br inj NEC
+80191,155,167,Op skul base fx w/o coma
+80192,155,167,Opn skl base fx-brf coma
+80193,154,166,Opn skl base fx-mod coma
+80194,154,166,Op skl base fx-prol coma
+80195,154,166,Op skl base fx-deep coma
+80196,155,167,Opn skl base fx-coma NOS
+80199,155,167,Opn skul base fx-concuss
+80220,155,167,Mandible fx NOS-closed 
+80221,155,167,Fx condyl proc mandib-cl
+80222,155,167,Subcondylar fx mandib-cl
+80223,155,167,Fx coron proc mandib-cl 
+80224,155,167,Fx ramus NOS-closed 
+80225,155,167,Fx angle of jaw-closed 
+80226,155,167,Fx symphy mandib body-cl
+80227,155,167,Fx alveolar bord mand-cl
+80228,155,167,Fx mandible body NEC-cl 
+80229,155,167,Mult fx mandible-closed 
+80230,155,167,Mandible fx NOS-open 
+80231,155,167,Fx condyl proc mand-open
+80232,155,167,Subcondyl fx mandib-open
+80233,155,167,Fx coron proc mandib-opn
+80234,155,167,Fx ramus NOS-open 
+80235,155,167,Fx angle of jaw-open 
+80236,155,167,Fx symphy mandib bdy-opn
+80237,155,167,Fx alv bord mand bdy-opn
+80238,155,167,Fx mandible body NEC-opn
+80239,155,167,Mult fx mandible-open 
+8024 ,155,167,Fx malar/maxillary-close
+8025 ,155,167,Fx malar/maxillary-open 
+8026 ,155,167,Fx orbital floor-closed 
+8027 ,155,167,Fx orbital floor-open 
+8028 ,155,167,Fx facial bone NEC-close
+8029 ,155,167,Fx facial bone NEC-open 
+80300,155,167,Close skull fracture NEC
+80301,155,167,Cl skull fx NEC w/o coma
+80302,155,167,Cl skull fx NEC-brf coma
+80303,154,166,Cl skull fx NEC-mod coma
+80304,154,166,Cl skl fx NEC-proln coma
+80305,154,166,Cl skul fx NEC-deep coma
+80306,155,167,Cl skull fx NEC-coma NOS
+80309,155,167,Cl skull fx NEC-concuss 
+80310,155,167,Cl skl fx NEC/cerebr lac
+80311,155,167,Cl skull fx NEC w/o coma
+80312,155,167,Cl skull fx NEC-brf coma
+80313,154,166,Cl skull fx NEC-mod coma
+80314,154,166,Cl skl fx NEC-proln coma
+80315,154,166,Cl skul fx NEC-deep coma
+80316,155,167,Cl skull fx NEC-coma NOS
+80319,155,167,Cl skull fx NEC-concuss 
+80320,155,167,Cl skl fx NEC/mening hem
+80321,155,167,Cl skull fx NEC w/o coma
+80322,155,167,Cl skull fx NEC-brf coma
+80323,154,166,Cl skull fx NEC-mod coma
+80324,154,166,Cl skl fx NEC-proln coma
+80325,154,166,Cl skul fx NEC-deep coma
+80326,155,167,Cl skull fx NEC-coma NOS
+80329,155,167,Cl skull fx NEC-concuss 
+80330,155,167,Cl skull fx NEC/hem NEC 
+80331,155,167,Cl skull fx NEC w/o coma
+80332,155,167,Cl skull fx NEC-brf coma
+80333,154,166,Cl skull fx NEC-mod coma
+80334,154,166,Cl skl fx NEC-proln coma
+80335,154,166,Cl skul fx NEC-deep coma
+80336,155,167,Cl skull fx NEC-coma NOS
+80339,155,167,Cl skull fx NEC-concuss 
+80340,155,167,Cl skl fx NEC/br inj NEC
+80341,155,167,Cl skull fx NEC w/o coma
+80342,155,167,Cl skull fx NEC-brf coma
+80343,154,166,Cl skull fx NEC-mod coma
+80344,154,166,Cl skl fx NEC-proln coma
+80345,154,166,Cl skul fx NEC-deep coma
+80346,155,167,Cl skull fx NEC-coma NOS
+80349,155,167,Cl skull fx NEC-concuss 
+80350,155,167,Open skull fracture NEC 
+80351,155,167,Opn skul fx NEC w/o coma
+80352,155,167,Opn skul fx NEC-brf coma
+80353,154,166,Opn skul fx NEC-mod coma
+80354,154,166,Opn skl fx NEC-prol coma
+80355,154,166,Opn skl fx NEC-deep coma
+80356,155,167,Opn skul fx NEC-coma NOS
+80359,155,167,Opn skull fx NEC-concuss
+80360,155,167,Opn skl fx NEC/cereb lac
+80361,155,167,Opn skul fx NEC w/o coma
+80362,155,167,Opn skul fx NEC-brf coma
+80363,154,166,Opn skul fx NEC-mod coma
+80364,154,166,Opn skl fx NEC-proln com
+80365,154,166,Opn skl fx NEC-deep coma
+80366,155,167,Opn skul fx NEC-coma NOS
+80369,155,167,Opn skull fx NEC-concuss
+80370,155,167,Opn skl fx NEC/menin hem
+80371,155,167,Opn skul fx NEC w/o coma
+80372,155,167,Opn skul fx NEC-brf coma
+80373,154,166,Opn skul fx NEC-mod coma
+80374,154,166,Opn skl fx NEC-prol coma
+80375,154,166,Opn skl fx NEC-deep coma
+80376,155,167,Opn skul fx NEC-coma NOS
+80379,155,167,Opn skull fx NEC-concuss
+80380,155,167,Opn skull fx NEC/hem NEC
+80381,155,167,Opn skul fx NEC w/o coma
+80382,155,167,Opn skul fx NEC-brf coma
+80383,154,166,Opn skul fx NEC-mod coma
+80384,154,166,Opn skl fx NEC-prol coma
+80385,154,166,Opn skl fx NEC-deep coma
+80386,155,167,Opn skul fx NEC-coma NOS
+80389,155,167,Opn skull fx NEC-concuss
+80390,155,167,Op skl fx NEC/br inj NEC
+80391,155,167,Opn skul fx NEC w/o coma
+80392,155,167,Opn skul fx NEC-brf coma
+80393,154,166,Opn skul fx NEC-mod coma
+80394,154,166,Opn skl fx NEC-prol coma
+80395,154,166,Opn skl fx NEC-deep coma
+80396,155,167,Opn skul fx NEC-coma NOS
+80399,155,167,Opn skull fx NEC-concuss
+80400,155,167,Cl skul fx w oth bone fx
+80401,155,167,Cl skl w oth fx w/o coma
+80402,155,167,Cl skl w oth fx-brf coma
+80403,154,166,Cl skl w oth fx-mod coma
+80404,154,166,Cl skl/oth fx-proln coma
+80405,154,166,Cl skul/oth fx-deep coma
+80406,155,167,Cl skl w oth fx-coma NOS
+80409,155,167,Cl skul w oth fx-concuss
+80410,155,167,Cl sk w oth fx/cereb lac
+80411,155,167,Cl skl w oth fx w/o coma
+80412,155,167,Cl skl w oth fx-brf coma
+80413,154,166,Cl skl w oth fx-mod coma
+80414,154,166,Cl skl/oth fx-proln coma
+80415,154,166,Cl skul/oth fx-deep coma
+80416,155,167,Cl skl w oth fx-coma NOS
+80419,155,167,Cl skul w oth fx-concuss
+80420,155,167,Cl skl/oth fx/mening hem
+80421,155,167,Cl skl w oth fx w/o coma
+80422,155,167,Cl skl w oth fx-brf coma
+80423,154,166,Cl skl w oth fx-mod coma
+80424,154,166,Cl skl/oth fx-proln coma
+80425,154,166,Cl skul/oth fx-deep coma
+80426,155,167,Cl skl w oth fx-coma NOS
+80429,155,167,Cl skul w oth fx-concuss
+80430,155,167,Cl skul w oth fx/hem NEC
+80431,155,167,Cl skl w oth fx w/o coma
+80432,155,167,Cl skl w oth fx-brf coma
+80433,154,166,Cl skl w oth fx-mod coma
+80434,154,166,Cl skl/oth fx-proln coma
+80435,154,166,Cl skul/oth fx-deep coma
+80436,155,167,Cl skl w oth fx-coma NOS
+80439,155,167,Cl skul w oth fx-concuss
+80440,155,167,Cl skl/oth fx/br inj NEC
+80441,155,167,Cl skl w oth fx w/o coma
+80442,155,167,Cl skl w oth fx-brf coma
+80443,154,166,Cl skl w oth fx-mod coma
+80444,154,166,Cl skl/oth fx-proln coma
+80445,154,166,Cl skul/oth fx-deep coma
+80446,155,167,Cl skl w oth fx-coma NOS
+80449,155,167,Cl skul w oth fx-concuss
+80450,155,167,Opn skull fx/oth bone fx
+80451,155,167,Opn skul/oth fx w/o coma
+80452,155,167,Opn skul/oth fx-brf coma
+80453,154,166,Opn skul/oth fx-mod coma
+80454,154,166,Opn skl/oth fx-prol coma
+80455,154,166,Opn skl/oth fx-deep coma
+80456,155,167,Opn skul/oth fx-coma NOS
+80459,155,167,Opn skull/oth fx-concuss
+80460,155,167,Opn skl/oth fx/cereb lac
+80461,155,167,Opn skul/oth fx w/o coma
+80462,155,167,Opn skul/oth fx-brf coma
+80463,154,166,Opn skul/oth fx-mod coma
+80464,154,166,Opn skl/oth fx-prol coma
+80465,154,166,Opn skl/oth fx-deep coma
+80466,155,167,Opn skul/oth fx-coma NOS
+80469,155,167,Opn skull/oth fx-concuss
+80470,155,167,Opn skl/oth fx/menin hem
+80471,155,167,Opn skul/oth fx w/o coma
+80472,155,167,Opn skul/oth fx-brf coma
+80473,154,166,Opn skul/oth fx-mod coma
+80474,154,166,Opn skl/oth fx-prol coma
+80475,154,166,Opn skl/oth fx-deep coma
+80476,155,167,Opn skul/oth fx-coma NOS
+80479,155,167,Opn skull/oth fx-concuss
+80480,155,167,Opn skl w oth fx/hem NEC
+80481,155,167,Opn skul/oth fx w/o coma
+80482,155,167,Opn skul/oth fx-brf coma
+80483,154,166,Opn skul/oth fx-mod coma
+80484,154,166,Opn skl/oth fx-prol coma
+80485,154,166,Opn skl/oth fx-deep coma
+80486,155,167,Opn skul/oth fx-coma NOS
+80489,155,167,Opn skull/oth fx-concuss
+80490,155,167,Op skl/oth fx/br inj NEC
+80491,155,167,Opn skul/oth fx w/o coma
+80492,155,167,Opn skul/oth fx-brf coma
+80493,154,166,Opn skul/oth fx-mod coma
+80494,154,166,Opn skl/oth fx-prol coma
+80495,154,166,Opn skl/oth fx-deep coma
+80496,155,167,Opn skul/oth fx-coma NOS
+80499,155,167,Opn skull/oth fx-concuss
+80500,157,169,Fx cervical vert NOS-cl 
+80501,157,169,Fx c1 vertebra-closed 
+80502,157,169,Fx c2 vertebra-closed 
+80503,157,169,Fx c3 vertebra-closed 
+80504,157,169,Fx c4 vertebra-closed 
+80505,157,169,Fx c5 vertebra-closed 
+80506,157,169,Fx c6 vertebra-closed 
+80507,157,169,Fx c7 vertebra-closed 
+80508,157,169,Fx mult cervical vert-cl
+80510,157,169,Fx cervical vert NOS-opn
+80511,157,169,Fx c1 vertebra-open 
+80512,157,169,Fx c2 vertebra-open 
+80513,157,169,Fx c3 vertebra-open 
+80514,157,169,Fx c4 vertebra-open 
+80515,157,169,Fx c5 vertebra-open 
+80516,157,169,Fx c6 vertebra-open 
+80517,157,169,Fx c7 vertebra-open 
+80518,157,169,Fx mlt cervical vert-opn
+8052 ,157,169,Fx dorsal vertebra-close
+8053 ,157,169,Fx dorsal vertebra-open 
+8054 ,157,169,Fx lumbar vertebra-close
+8055 ,157,169,Fx lumbar vertebra-open 
+8056 ,157,169,Fx sacrum/coccyx-closed 
+8057 ,157,169,Fx sacrum/coccyx-open 
+8058 ,157,169,Vertebral fx NOS-closed 
+8059 ,157,169,Vertebral fx NOS-open 
+80600,69,72,C1-c4 fx-cl/cord inj NOS
+80601,67,70,C1-c4 fx-cl/com cord les
+80602,69,72,C1-c4 fx-cl/ant cord syn
+80603,69,72,C1-c4 fx-cl/cen cord syn
+80604,69,72,C1-c4 fx-cl/cord inj NEC
+80605,69,72,C5-c7 fx-cl/cord inj NOS
+80606,67,70,C5-c7 fx-cl/com cord les
+80607,69,72,C5-c7 fx-cl/ant cord syn
+80608,69,72,C5-c7 fx-cl/cen cord syn
+80609,69,72,C5-c7 fx-cl/cord inj NEC
+80610,69,72,C1-c4 fx-op/cord inj NOS
+80611,67,70,C1-c4 fx-op/com cord les
+80612,69,72,C1-c4 fx-op/ant cord syn
+80613,69,72,C1-c4 fx-op/cen cord syn
+80614,69,72,C1-c4 fx-op/cord inj NEC
+80615,69,72,C5-c7 fx-op/cord inj NOS
+80616,67,70,C5-c7 fx-op/com cord les
+80617,69,72,C5-c7 fx-op/ant cord syn
+80618,69,72,C5-c7 fx-op/cen cord syn
+80619,69,72,C5-c7 fx-op/cord inj NEC
+80620,69,72,T1-t6 fx-cl/cord inj NOS
+80621,68,71,T1-t6 fx-cl/com cord les
+80622,69,72,T1-t6 fx-cl/ant cord syn
+80623,69,72,T1-t6 fx-cl/cen cord syn
+80624,69,72,T1-t6 fx-cl/cord inj NEC
+80625,69,72,T7-t12 fx-cl/crd inj NOS
+80626,68,71,T7-t12 fx-cl/com crd les
+80627,69,72,T7-t12 fx-cl/ant crd syn
+80628,69,72,T7-t12 fx-cl/cen crd syn
+80629,69,72,T7-t12 fx-cl/crd inj NEC
+80630,69,72,T1-t6 fx-op/cord inj NOS
+80631,68,71,T1-t6 fx-op/com cord les
+80632,69,72,T1-t6 fx-op/ant cord syn
+80633,69,72,T1-t6 fx-op/cen cord syn
+80634,69,72,T1-t6 fx-op/cord inj NEC
+80635,69,72,T7-t12 fx-op/crd inj NOS
+80636,68,71,T7-t12 fx-op/com crd les
+80637,69,72,T7-t12 fx-op/ant crd syn
+80638,69,72,T7-t12 fx-op/cen crd syn
+80639,69,72,T7-t12 fx-op/crd inj NEC
+8064 ,69,72,Cl lumbar fx w cord inj 
+8065 ,69,72,Opn lumbar fx w cord inj
+80660,69,72,Fx sacrum-cl/crd inj NOS
+80661,69,72,Fx sacr-cl/cauda equ les
+80662,69,72,Fx sacr-cl/cauda inj NEC
+80669,69,72,Fx sacrum-cl/crd inj NEC
+80670,69,72,Fx sacrum-op/crd inj NOS
+80671,69,72,Fx sacr-op/cauda equ les
+80672,69,72,Fx sacr-op/cauda inj NEC
+80679,69,72,Fx sacrum-op/crd inj NEC
+8068 ,69,72,Vert fx NOS-cl w crd inj
+8069 ,69,72,Vert fx NOS-op w crd inj
+8080 ,158,170,Fracture acetabulum-clos
+8081 ,158,170,Fracture acetabulum-open
+8082 ,158,170,Fracture of pubis-closed
+8083 ,158,170,Fracture of pubis-open 
+80841,158,170,Fracture of ilium-closed
+80842,158,170,Fracture ischium-closed 
+80843,158,170,Pelv fx-clos/pelv disrup
+80844,158,170,Pelv fx-cl w/o plv disrp
+80849,158,170,Pelvic fracture NEC-clos
+80851,158,170,Fracture of ilium-open 
+80852,158,170,Fracture of ischium-open
+80853,158,170,Pelv fx-open/pelv disrup
+80854,158,170,Pelv fx-opn w/o pelv dis
+80859,158,170,Pelvic fracture NEC-open
+8088 ,158,170,Pelvic fracture NOS-clos
+8089 ,158,170,Pelvic fracture NOS-open
+82000,158,170,Fx femur intrcaps NOS-cl
+82001,158,170,Fx up femur epiphy-clos 
+82002,158,170,"Fx femur, midcervic-clos"
+82003,158,170,Fx base femoral nck-clos
+82009,158,170,Fx femur intrcaps NEC-cl
+82010,158,170,Fx femur intrcap NOS-opn
+82011,158,170,Fx up femur epiphy-open 
+82012,158,170,"Fx femur, midcervic-open"
+82013,158,170,Fx base femoral nck-open
+82019,158,170,Fx femur intrcap NEC-opn
+82020,158,170,Trochanteric fx NOS-clos
+82021,158,170,Intertrochanteric fx-cl 
+82022,158,170,Subtrochanteric fx-close
+82030,158,170,Trochanteric fx NOS-open
+82031,158,170,Intertrochanteric fx-opn
+82032,158,170,Subtrochanteric fx-open 
+8208 ,158,170,Fx neck of femur NOS-cl 
+8209 ,158,170,Fx neck of femur NOS-opn
+82100,158,170,Fx femur NOS-closed 
+82101,158,170,Fx femur shaft-closed 
+82110,158,170,Fx femur NOS-open 
+82111,158,170,Fx femur shaft-open 
+82120,158,170,Fx low end femur NOS-cl 
+82121,158,170,Fx femoral condyle-close
+82122,158,170,Fx low femur epiphy-clos
+82123,158,170,Supracondyl fx femur-cl 
+82129,158,170,Fx low end femur NEC-cl 
+82130,158,170,Fx low end femur NOS-opn
+82131,158,170,Fx femoral condyle-open 
+82132,158,170,Fx low femur epiphy-open
+82133,158,170,Supracondyl fx femur-opn
+82139,158,170,Fx low end femur NEC-opn
+83500,158,170,Dislocat hip NOS-closed 
+83501,158,170,Posterior disloc hip-cl 
+83502,158,170,Obturator disloc hip-cl 
+83503,158,170,Ant disloc hip NEC-clos 
+83510,158,170,Dislocation hip NOS-open
+83511,158,170,Posterior disloc hip-opn
+83512,158,170,Obturator disloc hip-opn
+83513,158,170,Ant disloc hip NEC-open 
+8502 ,155,167,Concussion-moderate coma
+8503 ,155,167,Concussion-prolong coma 
+8504 ,155,167,Concussion-deep coma 
+85100,155,167,Cerebral cortx contusion
+85101,155,167,Cortex contusion-no coma
+85102,155,167,Cortex contus-brief coma
+85103,154,166,Cortex contus-mod coma 
+85104,154,166,Cortx contus-prolng coma
+85105,154,166,Cortex contus-deep coma 
+85106,155,167,Cortex contus-coma NOS 
+85109,155,167,Cortex contus-concus NOS
+85110,155,167,Cortex contusion/opn wnd
+85111,155,167,Opn cortx contus-no coma
+85112,155,167,Opn cort contus-brf coma
+85113,154,166,Opn cort contus-mod coma
+85114,154,166,Opn cort contu-prol coma
+85115,154,166,Opn cort contu-deep coma
+85116,155,167,Opn cort contus-coma NOS
+85119,155,167,Opn cortx contus-concuss
+85120,155,167,Cerebral cortex lacerat 
+85121,155,167,Cortex lacerat w/o coma 
+85122,155,167,Cortex lacera-brief coma
+85123,154,166,Cortex lacerat-mod coma 
+85124,154,166,Cortex lacerat-prol coma
+85125,154,166,Cortex lacerat-deep coma
+85126,155,167,Cortex lacerat-coma NOS 
+85129,155,167,Cortex lacerat-concuss 
+85130,155,167,Cortex lacer w opn wound
+85131,155,167,Opn cortex lacer-no coma
+85132,155,167,Opn cortx lac-brief coma
+85133,154,166,Opn cortx lacer-mod coma
+85134,154,166,Opn cortx lac-proln coma
+85135,154,166,Opn cortex lac-deep coma
+85136,155,167,Opn cortx lacer-coma NOS
+85139,155,167,Opn cortx lacer-concuss 
+85140,155,167,Cerebel/brain stm contus
+85141,155,167,Cerebell contus w/o coma
+85142,155,167,Cerebell contus-brf coma
+85143,154,166,Cerebell contus-mod coma
+85144,154,166,Cerebel contus-prol coma
+85145,154,166,Cerebel contus-deep coma
+85146,155,167,Cerebell contus-coma NOS
+85149,155,167,Cerebell contus-concuss 
+85150,155,167,Cerebel contus w opn wnd
+85151,155,167,Opn cerebe cont w/o coma
+85152,155,167,Opn cerebe cont-brf coma
+85153,154,166,Opn cerebe cont-mod coma
+85154,154,166,Opn cerebe cont-prol com
+85155,154,166,Opn cerebe cont-deep com
+85156,155,167,Opn cerebe cont-coma NOS
+85159,155,167,Opn cerebel cont-concuss
+85160,155,167,Cerebel/brain stem lacer
+85161,155,167,Cerebel lacerat w/o coma
+85162,155,167,Cerebel lacer-brief coma
+85163,154,166,Cerebel lacerat-mod coma
+85164,154,166,Cerebel lacer-proln coma
+85165,154,166,Cerebell lacer-deep coma
+85166,155,167,Cerebel lacerat-coma NOS
+85169,155,167,Cerebel lacer-concussion
+85170,155,167,Cerebel lacer w open wnd
+85171,155,167,Opn cerebel lac w/o coma
+85172,155,167,Opn cerebel lac-brf coma
+85173,154,166,Opn cerebel lac-mod coma
+85174,154,166,Opn cerebe lac-prol coma
+85175,154,166,Opn cerebe lac-deep coma
+85176,155,167,Opn cerebel lac-coma NOS
+85179,155,167,Opn cerebell lac-concuss
+85180,155,167,Brain laceration NEC 
+85181,155,167,Brain lacer NEC w/o coma
+85182,155,167,Brain lac NEC-brief coma
+85183,154,166,Brain lacer NEC-mod coma
+85184,154,166,Brain lac NEC-proln coma
+85185,154,166,Brain lac NEC-deep coma 
+85186,155,167,Brain lacer NEC-coma NOS
+85189,155,167,Brain lacer NEC-concuss 
+85190,155,167,Brain lac NEC w open wnd
+85191,155,167,Opn brain lacer w/o coma
+85192,155,167,Opn brain lac-brief coma
+85193,154,166,Opn brain lacer-mod coma
+85194,154,166,Opn brain lac-proln coma
+85195,154,166,Open brain lac-deep coma
+85196,155,167,Opn brain lacer-coma NOS
+85199,155,167,Open brain lacer-concuss
+85200,155,167,Traum subarachnoid hem 
+85201,155,167,Subarachnoid hem-no coma
+85202,155,167,Subarach hem-brief coma 
+85203,154,166,Subarach hem-mod coma 
+85204,154,166,Subarach hem-prolng coma
+85205,154,166,Subarach hem-deep coma 
+85206,155,167,Subarach hem-coma NOS 
+85209,155,167,Subarach hem-concussion 
+85210,155,167,Subarach hem w opn wound
+85211,155,167,Opn subarach hem-no coma
+85212,155,167,Op subarach hem-brf coma
+85213,154,166,Op subarach hem-mod coma
+85214,154,166,Op subarach hem-prol com
+85215,154,166,Op subarach hem-deep com
+85216,155,167,Op subarach hem-coma NOS
+85219,155,167,Opn subarach hem-concuss
+85220,155,167,Traumatic subdural hem 
+85221,155,167,Subdural hem w/o coma 
+85222,155,167,Subdural hem-brief coma 
+85223,154,166,Subdural hemorr-mod coma
+85224,154,166,Subdural hem-prolng coma
+85225,154,166,Subdural hem-deep coma 
+85226,155,167,Subdural hemorr-coma NOS
+85229,155,167,Subdural hem-concussion 
+85230,155,167,Subdural hem w opn wound
+85231,155,167,Open subdur hem w/o coma
+85232,155,167,Opn subdur hem-brf coma 
+85233,154,166,Opn subdur hem-mod coma 
+85234,154,166,Opn subdur hem-prol coma
+85235,154,166,Opn subdur hem-deep coma
+85236,155,167,Opn subdur hem-coma NOS 
+85239,155,167,Opn subdur hem-concuss 
+85240,155,167,Traumatic extradural hem
+85241,155,167,Extradural hem w/o coma 
+85242,155,167,Extradur hem-brief coma 
+85243,154,166,Extradural hem-mod coma 
+85244,154,166,Extradur hem-proln coma 
+85245,154,166,Extradural hem-deep coma
+85246,155,167,Extradural hem-coma NOS 
+85249,155,167,Extadural hem-concuss 
+85250,155,167,Extradural hem w opn wnd
+85251,155,167,Extradural hemor-no coma
+85252,155,167,Extradur hem-brief coma 
+85253,154,166,Extradural hem-mod coma 
+85254,154,166,Extradur hem-proln coma 
+85255,154,166,Extradur hem-deep coma 
+85256,155,167,Extradural hem-coma NOS 
+85259,155,167,Extradural hem-concuss 
+85300,155,167,Traumatic brain hem NEC 
+85301,155,167,Brain hem NEC w/o coma 
+85302,155,167,Brain hem NEC-brief coma
+85303,154,166,Brain hem NEC-mod coma 
+85304,154,166,Brain hem NEC-proln coma
+85305,154,166,Brain hem NEC-deep coma 
+85306,155,167,Brain hem NEC-coma NOS 
+85309,155,167,Brain hem NEC-concussion
+85310,155,167,Brain hem NEC w opn wnd 
+85311,155,167,Brain hem opn w/o coma 
+85312,155,167,Brain hem opn-brf coma 
+85313,154,166,Brain hem open-mod coma 
+85314,154,166,Brain hem opn-proln coma
+85315,154,166,Brain hem open-deep coma
+85316,155,167,Brain hem open-coma NOS 
+85319,155,167,Brain hem opn-concussion
+85400,155,167,Brain injury NEC 
+85401,155,167,Brain injury NEC-no coma
+85402,155,167,Brain inj NEC-brief coma
+85403,154,166,Brain inj NEC-mod coma 
+85404,154,166,Brain inj NEC-proln coma
+85405,154,166,Brain inj NEC-deep coma 
+85406,155,167,Brain inj NEC-coma NOS 
+85409,155,167,Brain inj NEC-concussion
+85410,155,167,Brain injury w opn wnd 
+85411,155,167,Opn brain inj w/o coma 
+85412,155,167,Opn brain inj-brief coma
+85413,154,166,Opn brain inj-mod coma 
+85414,154,166,Opn brain inj-proln coma
+85415,154,166,Opn brain inj-deep coma 
+85416,155,167,Open brain inj-coma NOS 
+85419,155,167,Opn brain inj-concussion
+8870 ,161,173,"Amput below elb, unilat "
+8871 ,161,173,"Amp below elb, unil-comp"
+8872 ,161,173,"Amput abv elbow, unilat "
+8873 ,161,173,"Amput abv elb, unil-comp"
+8874 ,161,173,"Amputat arm, unilat NOS "
+8875 ,161,173,"Amput arm, unil NOS-comp"
+8876 ,161,173,"Amputation arm, bilat "
+8877 ,161,173,"Amputat arm, bilat-compl"
+8950 ,161,173,Amputation toe 
+8951 ,161,173,Amputation toe-complicat
+8960 ,161,173,"Amputation foot, unilat "
+8961 ,161,173,"Amput foot, unilat-compl"
+8962 ,161,173,"Amputation foot, bilat "
+8963 ,161,173,"Amputat foot, bilat-comp"
+8970 ,161,173,"Amput below knee, unilat"
+8971 ,161,173,"Amputat bk, unilat-compl"
+8972 ,161,173,"Amput above knee, unilat"
+8973 ,161,173,"Amput abv kn, unil-compl"
+8974 ,161,173,"Amputat leg, unilat NOS "
+8975 ,161,173,"Amput leg, unil NOS-comp"
+8976 ,161,173,"Amputation leg, bilat "
+8977 ,161,173,"Amputat leg, bilat-compl"
+9050 ,155,167,Late effec skull/face fx
+9059 ,177,189,Late eff traumat amputat
+9070 ,155,167,Lt eff intracranial inj 
+9072 ,69,72,Late eff spinal cord inj
+94811,150,162,10-19% bdy brn/10-19% 3d
+94821,150,162,20-29% bdy brn/10-19% 3d
+94822,150,162,20-29% bdy brn/20-29% 3d
+94831,150,162,30-39% bdy brn/10-19% 3d
+94832,150,162,30-39% bdy brn/20-29% 3d
+94833,150,162,30-39% bdy brn/30-39% 3d
+94841,150,162,40-49% bdy brn/10-19% 3d
+94842,150,162,40-49% bdy brn/20-29% 3d
+94843,150,162,40-49% bdy brn/30-39% 3d
+94844,150,162,40-49% bdy brn/40-49% 3d
+94851,150,162,50-59% bdy brn/10-19% 3d
+94852,150,162,50-59% bdy brn/20-29% 3d
+94853,150,162,50-59% bdy brn/30-39% 3d
+94854,150,162,50-59% bdy brn/40-49% 3d
+94855,150,162,50-59% bdy brn/50-59% 3d
+94861,150,162,60-69% bdy brn/10-19% 3d
+94862,150,162,60-69% bdy brn/20-29% 3d
+94863,150,162,60-69% bdy brn/30-39% 3d
+94864,150,162,60-69% bdy brn/40-49% 3d
+94865,150,162,60-69% bdy brn/50-59% 3d
+94866,150,162,60-69% bdy brn/60-69% 3d
+94871,150,162,70-79% bdy brn/10-19% 3d
+94872,150,162,70-79% bdy brn/20-29% 3d
+94873,150,162,70-79% bdy brn/30-39% 3d
+94874,150,162,70-79% bdy brn/40-49% 3d
+94875,150,162,70-79% bdy brn/50-59% 3d
+94876,150,162,70-79% bdy brn/60-69% 3d
+94877,150,162,70-79% bdy brn/70-79% 3d
+94881,150,162,80-89% bdy brn/10-19% 3d
+94882,150,162,80-89% bdy brn/20-29% 3d
+94883,150,162,80-89% bdy brn/30-39% 3d
+94884,150,162,80-89% bdy brn/40-49% 3d
+94885,150,162,80-89% bdy brn/50-59% 3d
+94886,150,162,80-89% bdy brn/60-69% 3d
+94887,150,162,80-89% bdy brn/70-79% 3d
+94888,150,162,80-89% bdy brn/80-89% 3d
+94891,150,162,90% + bdy brn/10-19% 3rd
+94892,150,162,90% + bdy brn/20-29% 3rd
+94893,150,162,90% + bdy brn/30-39% 3rd
+94894,150,162,90% + bdy brn/40-49% 3rd
+94895,150,162,90% + bdy brn/50-59% 3rd
+94896,150,162,90% + bdy brn/60-69% 3rd
+94897,150,162,90% + bdy brn/70-79% 3rd
+94898,150,162,90% + bdy brn/80-89% 3rd
+94899,150,162,90% + bdy brn/90% + 3rd 
+95200,69,72,C1-c4 spin cord inj NOS 
+95201,67,70,Complete les cord/c1-c4 
+95202,69,72,Anterior cord synd/c1-c4
+95203,69,72,Central cord synd/c1-c4 
+95204,69,72,C1-c4 spin cord inj NEC 
+95205,69,72,C5-c7 spin cord inj NOS 
+95206,67,70,Complete les cord/c5-c7 
+95207,69,72,Anterior cord synd/c5-c7
+95208,69,72,Central cord synd/c5-c7 
+95209,69,72,C5-c7 spin cord inj NEC 
+95210,69,72,T1-t6 spin cord inj NOS 
+95211,68,71,Complete les cord/t1-t6 
+95212,69,72,Anterior cord synd/t1-t6
+95213,69,72,Central cord synd/t1-t6 
+95214,69,72,T1-t6 spin cord inj NEC 
+95215,69,72,T7-t12 spin cord inj NOS
+95216,68,71,Complete les cord/t7-t12
+95217,69,72,Anterior cord syn/t7-t12
+95218,69,72,Central cord syn/t7-t12 
+95219,69,72,T7-t12 spin cord inj NEC
+9522 ,69,72,Lumbar spinal cord injur
+9523 ,69,72,Sacral spinal cord injur
+9524 ,69,72,Cauda equina injury 
+9528 ,69,72,Spin cord inj-mult site 
+9529 ,69,72,Spinal cord injury NOS 
+9580 ,164,173,Air embolism 
+9581 ,164,173,Fat embolism 
+9582 ,164,173,Secondary/recur hemorr 
+9583 ,164,173,Posttraum wnd infec NEC 
+9584 ,164,173,Traumatic shock 
+9585 ,164,173,Traumatic anuria 
+9586 ,164,173,Volkmann's isch contract
+9587 ,164,173,Traum subcutan emphysema
+9588 ,164,173,Early complic trauma NEC
+95890,164,173,Compartment syndrome NOS
+95891,164,173,Trauma comp synd up ext 
+95892,164,173,Trauma comp synd low ext
+95893,164,173,Trauma compart synd abd 
+95899,164,173,Trauma compart synd NEC 
+99590,,2,"SIRS, NOS "
+99591,,2,Sepsis 
+99592,,2,Severe sepsis 
+99593,,2,SIRS-noninf w/o ac or ds
+99594,,2,SIRS-noninf w ac org dys
+99600,164,,Malfunc card dev/grf NOS
+99601,164,,Malfunc cardiac pacemake
+99602,164,,Malfunc prosth hrt valve
+99603,164,,Malfunc coron bypass grf
+99604,164,,Mch cmp autm mplnt dfbrl
+99609,164,,Malfunc card dev/grf NEC
+9961 ,164,176,Malfunc vasc device/graf
+9962 ,164,176,Malfun neuro device/graf
+99630,164,176,Malfunc gu dev/graft NOS
+99631,164,176,Malfunc urethral cath 
+99632,164,,Malfunction iud 
+99639,164,176,Malfunc gu dev/graft NEC
+99640,164,176,Cmp int orth dev/gft NOS
+99641,164,176,Mech loosening pros jt 
+99642,164,176,Dislocate prosthetic jt 
+99643,164,176,Broke prosthtc jt implnt
+99644,164,176,Periprosthetc fx-pros jt
+99645,164,176,Periprosthetc osteolysis
+99646,164,176,Articular wear prosth jt
+99647,164,176,Mech com pros jt implant
+99649,164,176,Mech com orth dev NEC 
+99651,164,,Corneal grft malfunction
+99652,164,,Oth tissue graft malfunc
+99653,164,,Lens prosthesis malfunc 
+99654,164,,Breast prosth malfunc 
+99655,164,,Comp-artificial skin grf
+99656,130,134,Comp-periton dialys cath
+99657,164,,Complcation-insulin pump
+99659,164,,Malfunc oth device/graft
+99660,164,176,Reaction-unsp devic/grft
+99661,164,176,React-cardiac dev/graft 
+99662,164,176,React-oth vasc dev/graft
+99663,164,176,React-nerv sys dev/graft
+99664,164,176,React-indwell urin cath 
+99665,164,176,React-oth genitourin dev
+99666,164,176,React-inter joint prost 
+99667,164,176,React-oth int ortho dev 
+99668,130,134,React-periton dialy cath
+99669,164,176,React-int pros devic NEC
+99670,164,,Comp-unsp device/graft 
+99671,164,,Comp-heart valve prosth 
+99672,164,,Comp-oth cardiac device 
+99673,130,134,Comp-ren dialys dev/grft
+99674,164,176,Comp-oth vasc dev/graft 
+99675,164,176,Comp-nerv sys dev/graft 
+99676,164,176,Comp-genitourin dev/grft
+99677,164,176,Comp-internal joint pros
+99678,164,176,Comp-oth int ortho devic
+99679,164,,Comp-int prost devic NEC
+99681,,,Compl kidney transplant 
+99682,174,186,Compl liver transplant 
+99683,174,186,Compl heart transplant 
+99684,174,186,Compl lung transplant 
+99685,174,186,Compl marrow transplant 
+99686,174,186,Compl pancreas transplnt
+99687,174,186,Comp intestine transplnt
+99688,174,186,Comp tp organ-stem cell 
+99690,161,173,Comp reattach extrem NOS
+99691,161,173,Compl reattached forearm
+99692,161,173,Compl reattached hand 
+99693,161,173,Compl reattached finger 
+99694,161,173,Compl reattached arm NEC
+99695,161,173,Compl reattached foot 
+99696,161,173,Compl reattached leg NEC
+99699,161,173,Compl reattach part NEC 
+99700,164,,Nervous syst complc NOS 
+99701,164,,Surg complication - cns 
+99702,164,100,Iatrogen CV infarc/hmrhg
+99709,164,,Surg comp nerv systm NEC
+9971 ,164,,Surg compl-heart 
+9972 ,164,,Surg comp-peri vasc syst
+99731,164,114,Ventltr assoc pneumonia 
+99732,164,,Postproc aspiration pneu
+99739,164,,Respiratory comp NEC 
+99749,164,,Oth digestv system comp 
+9975 ,164,,Surg compl-urinary tract
+99760,177,189,Amputat stump compl NOS 
+99761,177,189,Neuroma amputation stump
+99762,177,189,Infection amputat stump 
+99769,177,189,Amputat stump compl NEC 
+99771,164,,Vasc comp mesenteric art
+99772,164,,Vasc comp renal artery 
+99779,164,,Vascular comp vessel NEC
+99800,164,,"Postoperative shock, NOS"
+99801,79,84,"Postop shock,cardiogenic"
+99802,2,2,"Postop shock, septic "
+99809,164,,"Postop shock, other "
+9986 ,164,,Persist postop fistula 
+E9500,55,58,Poison-analgesics 
+E9501,55,58,Poison-barbiturates 
+E9502,55,58,Poison-sedat/hypnotic 
+E9503,55,58,Poison-psychotropic agt 
+E9504,55,58,Poison-drug/medicin NEC 
+E9505,55,58,Poison-drug/medicin NOS 
+E9506,55,58,Poison-agricult agent 
+E9507,55,58,Poison-corrosiv/caustic 
+E9508,55,58,Poison-arsenic 
+E9509,55,58,Poison-solid/liquid NEC 
+E9510,55,58,Poison-piped gas 
+E9511,55,58,Poison-gas in container 
+E9518,55,58,Poison-utility gas NEC 
+E9520,55,58,Poison-exhaust gas 
+E9521,55,58,Poison-co NEC 
+E9528,55,58,Poison-gas/vapor NEC 
+E9529,55,58,Poison-gas/vapor NOS 
+E9530,55,58,Injury-hanging 
+E9531,55,58,Injury-suff w plas bag 
+E9538,55,58,Injury-strang/suff NEC 
+E9539,55,58,Injury-strang/suff NOS 
+E954 ,55,58,Injury-submersion 
+E9550,55,58,Injury-handgun 
+E9551,55,58,Injury-shotgun 
+E9552,55,58,Injury-hunting rifle 
+E9553,55,58,Injury-military firearm 
+E9554,55,58,Injury-firearm NEC 
+E9555,55,58,Injury-explosives 
+E9556,55,58,Self inflict acc-air gun
+E9557,55,58,Self inj-paintball gun 
+E9559,55,58,Injury-firearm/expl NOS 
+E956 ,55,58,Injury-cut instrument 
+E9570,55,58,Injury-jump fm residence
+E9571,55,58,Injury-jump fm struc NEC
+E9572,55,58,Injury-jump fm natur sit
+E9579,55,58,Injury-jump NEC 
+E9580,55,58,Injury-moving object 
+E9581,55,58,"Injury-burn, fire "
+E9582,55,58,Injury-scald 
+E9583,55,58,Injury-extreme cold 
+E9584,55,58,Injury-electrocution 
+E9585,55,58,Injury-motor veh crash 
+E9586,55,58,Injury-aircraft crash 
+E9587,55,58,Injury-caustic substance
+E9588,55,58,Injury-NEC 
+E9589,55,58,Injury-NOS 
+E959 ,55,58,Late eff of self-injury 
+V08 ,1,1,Asymp hiv infectn status
+V420 ,,,Kidney transplant status
+V421 ,174,186,Heart transplant status 
+V426 ,174,186,Lung transplant status 
+V427 ,174,186,Liver transplant status 
+V4281,174,186,Trnspl status-bne marrow
+V4282,174,186,Trspl sts-perip stm cell
+V4283,174,186,Trnspl status-pancreas 
+V4284,174,186,Trnspl status-intestines
+V4321,174,186,Heart assist dev replace
+V4322,174,186,Artficial heart replace 
+V440 ,77,82,Tracheostomy status 
+V441 ,176,188,Gastrostomy status 
+V442 ,176,188,Ileostomy status 
+V443 ,176,188,Colostomy status 
+V444 ,176,188,Enterostomy status NEC 
+V4450,176,188,Cystostomy status NOS 
+V4451,176,188,Cutaneous-vesicos status
+V4452,176,188,Appendico-vesicos status
+V4459,176,188,Cystostomy status NEC 
+V446 ,176,188,Urinostomy status NEC 
+V448 ,176,188,Artif open status NEC 
+V449 ,176,188,Artif open status NOS 
+V4511,130,134,Renal dialysis status 
+V4512,130,134,Noncmplnt w renal dialys
+V4611,77,82,Respirator depend status
+V4612,77,82,Resp depend-powr failure
+V4613,77,82,Weaning from respirator 
+V4614,77,82,Mech comp respirator 
+V4970,177,189,Status amput lwr lmb NOS
+V4971,177,189,Status amput great toe 
+V4972,177,189,Status amput othr toe(s)
+V4973,177,189,Status amput foot 
+V4974,177,189,Status amput ankle 
+V4975,177,189,Status amput below knee 
+V4976,177,189,Status amput above knee 
+V4977,177,189,Status amput hip 
+V521 ,177,189,Fitting artificial leg 
+V550 ,77,82,Atten to tracheostomy 
+V551 ,176,188,Atten to gastrostomy 
+V552 ,176,188,Atten to ileostomy 
+V553 ,176,188,Atten to colostomy 
+V554 ,176,188,Atten to enterostomy NEC
+V555 ,176,188,Atten to cystostomy 
+V556 ,176,188,Atten to urinostomy NEC 
+V558 ,176,188,Attn to artif open NEC 
+V559 ,176,188,Attn to artif open NOS 
+V560 ,130,134,Renal dialysis encounter
+V561 ,130,134,Ft/adj xtrcorp dial cath
+V562 ,130,134,Fit/adj perit dial cath 
+V5631,130,134,Hemodialysis testing 
+V5632,130,134,Peritoneal dialysis test
+V568 ,130,134,"Dialysis encounter, NEC "
+V5867,19,19,Long-term use of insulin
+V8541,,22,"BMI 40.0-44.9, adult "
+V8542,,22,"BMI 45.0-49.9, adult "
+V8543,,22,"BMI 50.0-59.9, adult "
+V8544,,22,"BMI 60.0-69.9, adult "
+V8545,,22,"BMI 70 and over, adult "
